@@ -1,3 +1,7 @@
+---
+title: Una Campaña de tipo West Marches
+---
+
 Una campaña de __West Marches__ es un tipo de partida de rol con características únicas que la diferencian de las campañas tradicionales. Se diseñó originalmente para fomentar la exploración, la libertad de elección y la autogestión por parte de los jugadores. A continuación, te explico sus aspectos clave:
 
 ### **Características principales de una campaña West Marches**

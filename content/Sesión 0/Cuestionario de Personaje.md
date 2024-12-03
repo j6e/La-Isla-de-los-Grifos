@@ -1,3 +1,7 @@
+---
+title: Cuestionario de Personaje
+---
+
 El objetivo del siguiente cuestionario es ayudarte a crear un buen personaje con el que disfrutar de tu paso por la isla de los grifos. Si tienes cualquier duda, estoy a tu disposición.
 
 ## Información Básica

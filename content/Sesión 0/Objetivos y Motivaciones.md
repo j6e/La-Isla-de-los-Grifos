@@ -1,3 +1,7 @@
+---
+title: Objetivos y Motivaciones
+---
+
 Un juego de rol, en resumen, no es otra cosa que una historia, una historia creada en común por varias personas, pero una historia al fin y al cabo. Toda historia, por pequeña y sencilla que sea, tiene un común denominador: personaje y argumento. Así que para crear nuestra pequeña historia debemos tener esas dos cosas: un personaje definido que no sea distinto cada vez que jugamos, y el argumento. 
 
 Tener sólo un personaje no hace una historia, ese personaje tiene que querer algo, de otro modo no hay nada en él de interesante; pero además de querer algo debe tener una fuerza que se oponga a que consiga lo que quiere. La lucha entre lo que el personaje quiere y la fuerza que se le opone es el argumento de nuestra historia. Así pues, debemos dotar a nuestro personaje de un objetivo o motivación.
