@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "https://j6e.github.io/La-Isla-de-los-Grifos/",
+    baseUrl: "j6e.github.io/La-Isla-de-los-Grifos",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -83,7 +83,7 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
