@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "j6e.github.io/La-Isla-de-los-Grifos",
+    baseUrl: "j6e.github.io/La-Isla-de-los-Grifos/Index",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
