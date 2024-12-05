@@ -35,3 +35,5 @@ Una campaña de _West Marches_ es un tipo de partida de rol con características
 - **Flexibilidad:** Por desgracia, nos hemos hecho mayores y todos tenemos diferentes obligaciones que atender, muchas veces esto hace imposible gestionar una campaña a largo plazo con el mismo número de personas. Esto lo hace un estilo de juego ideal para grupos grandes o con horarios variables, ya que no todos los jugadores deben estar presentes en cada sesión. 
 - **Autonomía:** Empodera a los jugadores para tomar decisiones y liderar sus propias aventuras. Los jugadores hablan entre sí y proponen las aventuras que quieren jugar.
 - **Rejugabilidad:** Permite que diferentes jugadores exploren el mismo mundo de maneras completamente distintas.
+
+### ¿Cómo lo vamos a implementar?

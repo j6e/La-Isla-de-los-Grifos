@@ -1,4 +1,10 @@
-## El Mapa antiguo
+---
+title: Lo que saben los personajes
+---
+
+La siguiente información está disponible para tu personaje antes de llegar a la Isla de los Grifos y puede servir para desarrollar o inspirar un gancho para querer venir a la misma.
+
+## El Mapa Antiguo
 Todos los personajes que acuden a la isla de los grifos tienen una cosa en común: poseen una copia del __Mapa Antiguo__ de la Isla de los Grifos.  
 
 ![[mapa_isla.jpg]]
