@@ -19,10 +19,10 @@ Para la partida usaremos un panteón personalizado de once dioses (fusilados, am
 
 ## Yelmalio
 
-- **Títulos:** El Soldado del Alba, El Portador de la Luz, El Brillo del Crepúsculo  
+- **Títulos:** La Soldado del Alba, La Portadora de la Luz, El Brillo del Crepúsculo  
 - **Alineamiento:** Neutral Bueno  
 - **Dominios:** Luz, Protección, Guerra, Vida   
-- **Descripción:** Yelmalio, el patrón de los Aasimar, es un faro de esperanza en tiempos de oscuridad. Es un símbolo de resistencia frente a la adversidad, permaneciendo constante incluso cuando el mundo parece desmoronarse. Venerado como el protector de los humildes y el escudo contra el Caos, Yelmalio inspira a sus seguidores a mantener su fe y su honor, incluso en las situaciones más desesperadas. Cómo cuando él defendió al mundo en los tiempos oscuros que siguieron a la muerte de su padre, el Dios del Sol. Es la luz que guía a los viajeros y la fortaleza que protege a los vulnerables.
+- **Descripción:** Yelmalio, la patrona de los Aasimar, es un faro de esperanza en tiempos de oscuridad. Es un símbolo de resistencia frente a la adversidad, permaneciendo constante incluso cuando el mundo parece desmoronarse. Venerada como la protectora de los humildes y el escudo contra el Caos, Yelmalio inspira a sus seguidores a mantener su fe y su honor, incluso en las situaciones más desesperadas. Cómo cuando ella defendió al mundo en los tiempos oscuros que siguieron a la muerte de su padre, el Dios del Sol. Es la luz que guía a los viajeros y la fortaleza que protege a los vulnerables.
 - **Mandamientos:**
 	- Resiste las tentaciones del Caos y permanece firme en tu camino, sin importar las pruebas que enfrentes.
 	- Ofrece tu protección a quienes no pueden defenderse por sí mismos.
@@ -71,10 +71,10 @@ Para la partida usaremos un panteón personalizado de once dioses (fusilados, am
 
 ## Coraline
 
-- **Títulos:** Señora de la Música y la Magia, Reina las hadas, Musa de las Flores
+- **Títulos:** Señora de la Música y la Magia, Reina las hadas, La Patrona de las Siembras
 - **Alineamiento:** Caótico Bueno
 - **Dominios:** Magia, Arte, Creación, Vida
-- **Descripción:** Guardiana de la primavera, belleza y las artes, Coraline es la patrona de la magia arcana, los elfos y las hadas. Ella fue la que sembró el mundo con la magia arcana y levantó los bosques más antiguos. Fue por la mano de Coraline que los primeros elfos salieron del Reino Feérico, y por esta razón se le considera su progenitora. Aquellos que buscan arte en todo su trabajo, ya sea mágico o mundano, a menudo rezan en sus altares. Su odio por la Devoradora y sus sacerdotisas, que arrastraron a los Drow a la infraoscuridad, resuena por todo el cosmos. 
+- **Descripción:** Guardiana de la primavera, belleza y las artes, Coraline es la patrona de la magia arcana, los elfos y las hadas. Ella fue la que sembró el mundo con la magia arcana y levantó los bosques más antiguos. Fue por la mano de Coraline que los primeros elfos salieron del Reino Feérico, y por esta razón se le considera su progenitora. Aquellos que buscan arte en todo su trabajo, ya sea mágico o mundano, a menudo rezan en sus altares. Así como aquellos que esperan la primavera con ansia para que crezcan sus cultivos. Su odio por la Devoradora y sus sacerdotisas, que arrastraron a los Drow a la infraoscuridad, resuena por todo el cosmos. 
 - **Mandamientos:**
 	- Crea, inspira y encuentra belleza en todo lo que haces. 
 	- Usa tu magia para preservar y proteger la vida y el equilibrio del mundo natural.
@@ -97,10 +97,10 @@ Para la partida usaremos un panteón personalizado de once dioses (fusilados, am
 
 ##  Kaldaris
 
-- **Títulos:** El Aliento Gélido, El Custodio de las Noche Eterna, El Portador de la Muerte
+- **Títulos:** El Aliento Gélido, La Custodio de la Noche Eterna, La Portadora de la Muerte
 - **Alineamiento:** Neutral
 - **Dominios:** Muerte, Destino, Guerra, Invierno
-- **Descripción:** Se dice que si en noche más fría del invierno miras al cielo y ves la constelación de la Espada de Kaldaris (la Muerte) es que vivirás un año más. Kaldaris es el dios de la muerte. Su mirada sigue y marca el final de cada vida mortal, velando por la transición entre la vida y la muerte. Y asegurando que la transición natural no esté contaminada. Los dolientes invocan su bendición en funerales de todo el mundo con la esperanza de que proteja a los fallecidos de la terrible maldición de la no-muerte. Sus seguidores luchan contra aquellos que expanden la maldición de la no-muerte, los portadores de los oscuros secretos de Vecna. 
+- **Descripción:** Se dice que si en noche más fría del invierno miras al cielo y ves la constelación de la Espada de Kaldaris (la Muerte) es que vivirás un año más. Kaldaris la diosa de la muerte. Su mirada sigue y marca el final de cada vida mortal, velando por la transición entre la vida y la muerte. Y asegurando que la transición natural no esté contaminada. Los dolientes invocan su bendición en funerales de todo el mundo con la esperanza de que proteja a los fallecidos de la terrible maldición de la no-muerte. Sus seguidores luchan contra aquellos que expanden la maldición de la no-muerte, los portadores de los oscuros secretos de Vecna. 
 - **Mandamientos:** 
 	- La muerte supone el fin natural de la vida. Haz duelo por los caídos, pero no los compadezcas. Exúltate por el tiempo que se les concedió. 
 	- El camino del destino es sagrado. Aquellos que se despojan de su destino con orgullo deben ser castigados. 
@@ -135,10 +135,11 @@ Para la partida usaremos un panteón personalizado de once dioses (fusilados, am
 ---
 
 ## La Abuela Celestial
+
 - **Títulos:** La Curandera, La Matriarca de los Dioses, la Protectora de la Sabiduría Ancestral  
 - **Alineamiento:** Legal Bueno  
 - **Dominios:** Vida, Conocimiento, Bondad
-- **Descripción:** La Abuela Celestial es la deidad del cuidado, la tradición y la conexión entre generaciones. Es una figura maternal y protectora, que guía a los suyos con paciencia y amor, mientras preserva las historias y enseñanzas del pasado. Sus seguidores ven en ella un modelo de bondad y fortaleza, recurriendo a su sabiduría en tiempos de incertidumbre. Es la protectora de los hogares, la guardiana de los ancianos y los niños,  la curandera de los enfermos y la tejedora de los hilos que conectan a las comunidades a través del tiempo.  Adorada en todas las culturas, cualquiera puede hallar cuidado en una de sus Casas de la Sanación.
+- **Descripción:** La Abuela Celestial es la deidad del cuidado, la tradición y la conexión entre generaciones. Es una figura maternal y protectora, que guía a los suyos con paciencia y amor, mientras preserva las historias y enseñanzas del pasado. Sus seguidores ven en ella un modelo de bondad y fortaleza, recurriendo a su sabiduría en tiempos de incertidumbre. No pocas tribus bárbaras tienen a una de sus seguidoras como su líder y matriarca. Es la protectora de los hogares, la guardiana de los ancianos y los niños,  la curandera de los enfermos y la tejedora de los hilos que conectan a las comunidades a través del tiempo.  Adorada en todas las culturas, cualquiera puede hallar cuidado en una de sus Casas de la Sanación.
 - **Mandamientos:**
 	- Preserva la tradición y transmite las lecciones del pasado para que las generaciones futuras puedan prosperar.
 	- Protege a los vulnerables, a los enfermos y a los que no se pueden valer por si mismos.
