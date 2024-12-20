@@ -1,6 +1,6 @@
 ---
-title: Una Campaña de tipo West Marches
-draft: true
+title: Panteón Divino
+draft: false
 ---
 Para la partida usaremos un panteón personalizado (fusilado de múltiples lugares). A continuación una breve introducción con los dioses más relevantes (disponibles en la creación de personaje):
 

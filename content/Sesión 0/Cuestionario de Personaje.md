@@ -9,12 +9,12 @@ El objetivo del siguiente cuestionario es ayudarte a crear un buen personaje con
 >  Puedes encontrar los detalles en [[Lo que saben los personajes]]
 
 ## Información Básica
-- Nombre de Personaje:
-- Edad:
-- Breve descripción física:
-- Especie: _(A elegir de las disponibles en el manual)_
-- Background: _(A elegir de las disponibles en el manual)_
-- Clase:  _(A elegir de las disponibles en el manual)_
+- **Nombre de Personaje:**
+- **Edad:**
+- **Breve descripción física:**
+- **Especie:** _(A elegir de las disponibles en el manual)_
+- **Background:** _(A elegir de las disponibles en el manual)_
+- **Clase:**  _(A elegir de las disponibles en el manual)_
 
 ## Trasfondo
 - ¿A qué te dedicabas antes de venir a la Isla? ¿Qué te gustaba de ello y qué no?
@@ -23,7 +23,7 @@ El objetivo del siguiente cuestionario es ayudarte a crear un buen personaje con
 - ¿Eres una persona muy religiosa? ¿Qué fe profesas?
 - ¿Cuál es el valor más importante para ti?
 
-> [!info]+ **Elige un dios, te ayudará!** 
+> [!info]+ **Elige un dios, te ayudará** 
 > Elegir un dios te puede ayudar a darle forma a tu personaje. Todos los dioses tienen una sección llamada _Mandamientos_ que te puede guiar para elegir valores y darle forma a tu personaje. Tienes toda la información en [[Panteón Divino]].
 
 ## Motivaciones
