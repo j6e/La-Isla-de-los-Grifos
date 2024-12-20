@@ -18,6 +18,10 @@ Debéis especificar todas las decisiones de creación de personaje: especie, ori
 
 Solamente contenido publicado en el manual  del jugador 5e 2024.  Ningún suplemento o manual antiguo está permitido.
 
+El resto de información necesaria para crear un personaje se encuentra en las siguientes páginas:
+- [[Panteón Divino]]: Información sobre los dioses de la ambientación
+- [[Lo_que_saben_los_personajes]]: Información de la que dispone tu personaje antes de venir a la Isla.
+
 ### Opciones prohibidas
 
 - **Alineamiento:** No está permitido ser eminentemente maligno ni poseer motivaciones que vayan directamente en contra del resto de jugadores.
@@ -26,6 +30,6 @@ Solamente contenido publicado en el manual  del jugador 5e 2024.  Ningún suplem
 - Los personajes empiezan a nivel 1
 - Los personajes deben ser al menos adolescentes (unos 14 años humanos)
 - Se usará el sistema de _point buy_ (compra de puntos) para determinar las puntuaciones de característica.
-- 
+
 ## Cuestionario de Personaje
 El [[Cuestionario de Personaje]] es un documento diseñado para ayudarte a pensar cómo es tu personaje, cuál es su pasado y cómo y por qué ha llegado a la Isla de los Grifos. Remítemelo cuando lo rellenes. 
