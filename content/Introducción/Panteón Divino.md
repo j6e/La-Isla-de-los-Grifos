@@ -2,7 +2,15 @@
 title: Panteón Divino
 draft: false
 ---
-Para la partida usaremos un panteón personalizado de once dioses (fusilados, amalgamados y creados...). A continuación una breve introducción con los dioses más relevantes (disponibles en la creación de personaje):
+
+En este mundo de fantasía los dioses juegan un papel muy relevante en la vida de la gente: son entidades sumamente poderosas que ejercen gran influencia sobre el mundo y sus habitantes.
+
+>[!Warning]+ **Este dios me suena...**
+>  Es muy posible que los dioses te suenen. La mayoría están fusilados de otras 
+>  ambientaciones, son una amalgama de varios dioses o están creados de cero inspirados
+>  en mitos reales.
+
+A continuación una breve introducción con los dioses más relevantes (disponibles en la creación de personaje):
 
 ## Bahamut
 
