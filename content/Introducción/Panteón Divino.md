@@ -134,7 +134,7 @@ Para la partida usaremos un panteón personalizado de once dioses (fusilados, am
 
 ---
 
-### La Abuela Celestial
+## La Abuela Celestial
 - **Títulos:** La Curandera, La Matriarca de los Dioses, la Protectora de la Sabiduría Ancestral  
 - **Alineamiento:** Legal Bueno  
 - **Dominios:** Vida, Conocimiento, Bondad
