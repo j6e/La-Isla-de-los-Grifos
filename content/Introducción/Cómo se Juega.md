@@ -26,4 +26,4 @@ Esta es una guía general sobre como se jugará exactamente esta campaña. La id
 
 - Los jugadores son los encargados de crear el mapa del mundo mientras van jugando. Existe una copia común del mapa del mundo que los aventureros van dibujando mientras van explorando nuevas áreas. Esta puede ser inexacta, pero no hacerse errónea de mala fe. Los jugadores pueden corregir el mapa en cualquier momento si creen que está equivocado.
 
-- Al inicio de la campaña se entrega a todos los jugadores una copia del  [Mapa Antiguo de la Isla de los Grifos](Lo_que_saben_los_personajes.md) que sirve como gancho para la aventura. Este mapa no es exacto.
+- Al inicio de la campaña se entrega a todos los jugadores una copia del  [Mapa Antiguo de la Isla de los Grifos](Lo%20que%20saben%20los%20personajes.md) que sirve como gancho para la aventura. Este mapa no es exacto.

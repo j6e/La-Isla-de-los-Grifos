@@ -20,7 +20,7 @@ Solamente contenido publicado en el manual  del jugador 5e 2024.  Ningún suplem
 
 El resto de información necesaria para crear un personaje se encuentra en las siguientes páginas:
 - [[Panteón Divino]]: Información sobre los dioses de la ambientación
-- [[Lo_que_saben_los_personajes]]: Información de la que dispone tu personaje antes de venir a la Isla.
+- [[Lo que saben los personajes]]: Información de la que dispone tu personaje antes de venir a la Isla.
 
 ### Opciones prohibidas
 

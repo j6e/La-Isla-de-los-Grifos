@@ -6,7 +6,7 @@ El objetivo del siguiente cuestionario es ayudarte a crear un buen personaje con
 
 >[!info]+ **¿Qué sabe tu personaje sobre la Isla de los Grifos?**
 >  Tu personaje posee un mapa y conocimiento superficial sobre la isla de los grifos. 
->  Puedes encontrar los detalles en [[Lo_que_saben_los_personajes]]
+>  Puedes encontrar los detalles en [[Lo que saben los personajes]]
 
 ## Información Básica
 - Nombre de Personaje:
