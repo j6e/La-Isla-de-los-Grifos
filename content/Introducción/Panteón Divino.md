@@ -12,12 +12,14 @@ En este mundo de fantasía los dioses juegan un papel muy relevante en la vida d
 
 A continuación una breve introducción con los dioses más relevantes (disponibles en la creación de personaje):
 
+---
+
 ## Bahamut
 
 - **Títulos:** El Dragón de Platino, El Emperador Celestial, El Pilar de la Justicia
 - **Alineamiento:** Legal Bueno
 - **Dominios:** Vida, Guerra, Justicia, Orden
-- **Descripción:** Bahamut es el dios del sol y la civilización, un emblema de perfección, justicia y autorida. Además, la mayoría de los dragones metálicos así como los dracónidos buenos lo veneran como el primero de los suyos. Representa el orden cósmico y la estabilidad, siendo adorado como el gobernante legítimo de los cielos. Sus seguidores ven en él un modelo de liderazgo y rectitud, el faro de la ley que mantiene a raya al mal; por eso es muy popular entre nobles, reyes, generales o jueces. Bahamut es severo pero justo, esperando de sus adoradores obediencia y dedicación al deber.  
+- **Descripción:** Bahamut es el dios del sol y la civilización, un emblema de perfección, justicia y autorida. Además, la mayoría de los dragones metálicos así como los [dracónidos](Especies.md##Dracónido) buenos lo veneran como el primero de los suyos. Representa el orden cósmico y la estabilidad, siendo adorado como el gobernante legítimo de los cielos. Sus seguidores ven en él un modelo de liderazgo y rectitud, el faro de la ley que mantiene a raya al mal; por eso es muy popular entre nobles, reyes, generales o jueces. Bahamut es severo pero justo, esperando de sus adoradores obediencia y dedicación al deber.  
 - **Mandamientos:**
 	- Mantén el orden y la justicia en todas tus acciones; no toleres la anarquía ni el desorden.
 	- Honra la tradición y respeta la autoridad legítima como base de la civilización.
@@ -30,7 +32,7 @@ A continuación una breve introducción con los dioses más relevantes (disponib
 - **Títulos:** La Soldado del Alba, El Brillo del Crepúsculo, La Hija del Verano
 - **Alineamiento:** Neutral Bueno  
 - **Dominios:** Luz, Protección, Guerra, Vida, Verano   
-- **Descripción:** Yelmalio, la patrona de los Aasimar, es un faro de esperanza en tiempos de oscuridad. Es un símbolo de resistencia frente a la adversidad, permaneciendo constante incluso cuando el mundo parece desmoronarse. Venerada como la protectora de los humildes y el escudo contra el Caos, Yelmalio inspira a sus seguidores a mantener su fe y su honor, incluso en las situaciones más desesperadas. Cómo cuando ella defendió al mundo en los tiempos oscuros que siguieron a la muerte de su padre, el Dios del Sol. Es la luz que guía a los viajeros y la fortaleza que protege a los vulnerables. Para sus seguidores, el verano no es solo una estación, sino un premio, un triunfo tras el esfuerzo y la lucha del año. El verano simboliza la recompensa divina por la perseverancia, un recordatorio de que, tras el frío y las sombras, la luz siempre regresa.
+- **Descripción:** Yelmalio, la patrona de los [aasimar](Especies.md##Aasimar), es un faro de esperanza en tiempos de oscuridad. Es un símbolo de resistencia frente a la adversidad, permaneciendo constante incluso cuando el mundo parece desmoronarse. Venerada como la protectora de los humildes y el escudo contra el Caos, Yelmalio inspira a sus seguidores a mantener su fe y su honor, incluso en las situaciones más desesperadas. Cómo cuando ella defendió al mundo en los tiempos oscuros que siguieron a la muerte de su padre, el Dios del Sol. Es la luz que guía a los viajeros y la fortaleza que protege a los vulnerables. Para sus seguidores, el verano no es solo una estación, sino un premio, un triunfo tras el esfuerzo y la lucha del año. El verano simboliza la recompensa divina por la perseverancia, un recordatorio de que, tras el frío y las sombras, la luz siempre regresa.
 - **Mandamientos:**
 	- Resiste las tentaciones del Caos y permanece firme en tu camino, sin importar las pruebas que enfrentes.
 	- Ofrece tu protección a quienes no pueden defenderse por sí mismos.
@@ -43,7 +45,7 @@ A continuación una breve introducción con los dioses más relevantes (disponib
 - **Títulos:** El Rey de las Tormentas, El Libertador del Cielo, El Aventurero Eterno
 - **Alineamiento:** Caótico Bueno  
 - **Dominios:** Tempestad, Guerra, Libertad, Gloria 
-- **Descripción:** Orlanth es el dios del viento y la tormenta, un defensor del cambio y la libertad. Es venerado como el patrón de los rebeldes, los líderes valientes y los que luchan por la justicia en un mundo que a menudo exige conformidad. Orlanth es una figura compleja, combinando el ímpetu de la libertad con la responsabilidad de gobernar. Sus seguidores lo ven como un protector de los débiles y un destructor de tiranías. La creencia en él implica una constante lucha por la verdad, el honor y la comunidad. Es ampliamente adorado por humanos, orcos y goliaths que viven en comunidades de tradición bárbara.
+- **Descripción:** Orlanth es el dios del viento y la tormenta, un defensor del cambio y la libertad. Es venerado como el patrón de los rebeldes, los líderes valientes y los que luchan por la justicia en un mundo que a menudo exige conformidad. Orlanth es una figura compleja, combinando el ímpetu de la libertad con la responsabilidad de gobernar. Sus seguidores lo ven como un protector de los débiles y un destructor de tiranías. La creencia en él implica una constante lucha por la verdad, el honor y la comunidad. Es ampliamente adorado por [humanos](Especies.md##Humanos), [orcos](Especies.md##Orcos) y [goliaths](Especies.md##Goliaths) que viven en comunidades de tradición bárbara.
 - **Mandamientos:**
 	- Valentía por encima de todo, no hay gloria en la cobardía.
 	- Honra tus promesas y protege a tus aliados, porque un líder vive y muere por su comunidad.
@@ -56,7 +58,7 @@ A continuación una breve introducción con los dioses más relevantes (disponib
 - **Títulos:** La Embaucadora    
 - **Alineamiento:** Caótico Neutral  
 - **Dominios:** Engaño, Amor, Sombra, Luna
-- **Descripción:** Nadie conoce la verdadera identidad de esta poderosa diosa (dios o diose). Sus dominios son variados y se extienden desde la luz de la luna o las ilusiones hasta las decisiones equivocadas. Ampliamente adorada en la cultura mediana y tiefling, también se la considera como la deidad del amor libre, que protege a los amantes en las sombras que ella misma crea. Aquellos que trabajan en la oscuridad y mediante engaños a menudo piden su bendición, así como los que buscan refugio de sus opresores.
+- **Descripción:** Nadie conoce la verdadera identidad de esta poderosa diosa (dios o diose). Sus dominios son variados y se extienden desde la luz de la luna o las ilusiones hasta las decisiones equivocadas. Ampliamente adorada en la cultura [mediana](Especies.md##Medianos) y [tiefling](Especies.md##Tieflings), también se la considera como la deidad del amor libre, que protege a los amantes en las sombras que ella misma crea. Aquellos que trabajan en la oscuridad y mediante engaños a menudo piden su bendición, así como los que buscan refugio de sus opresores.
 - **Mandamientos:**
 	- Rompe las reglas cuando sea necesario para que el orden no se vuelva rígido e inflexible.
 	- Forja tu propio destino y persigue tus propias pasiones.  Crea nuevos recuerdos y experiencias en el camino
@@ -69,7 +71,7 @@ A continuación una breve introducción con los dioses más relevantes (disponib
 - **Títulos:** Señora de la Música y la Magia, Reina las hadas, La Patrona de las Siembras
 - **Alineamiento:** Caótico Bueno
 - **Dominios:** Magia, Arte, Creación, Vida
-- **Descripción:** Guardiana de la primavera, belleza y las artes, Coraline es la patrona de la magia arcana, los elfos y las hadas. Ella fue la que trajo al mundo la magia arcana. Fue por la mano de Coraline que los primeros elfos salieron del Reino Feérico, y por esta razón se le considera su progenitora. Aquellos que buscan arte en todo su trabajo, ya sea mágico o mundano, a menudo rezan en sus altares. Así como aquellos que esperan la primavera con ansia para que crezcan sus cultivos y se marche el mal tiempo. Su odio por la Devoradora y sus sacerdotisas, que arrastraron a los Drow a la infraoscuridad, resuena por todo el cosmos. 
+- **Descripción:** Guardiana de la primavera, belleza y las artes, Coraline es la patrona de la magia arcana, los [elfos](Especies.md##Elfos) y las hadas. Ella fue la que trajo al mundo la magia arcana. Fue por la mano de Coraline que los primeros elfos salieron del Reino Feérico, y por esta razón se le considera su progenitora. Aquellos que buscan arte en todo su trabajo, ya sea mágico o mundano, a menudo rezan en sus altares. Así como aquellos que esperan la primavera con ansia para que crezcan sus cultivos y se marche el mal tiempo. Su odio por la Devoradora y sus sacerdotisas, que arrastraron a los Drow a la infraoscuridad, resuena por todo el cosmos. 
 - **Mandamientos:**
 	- Crea, inspira y encuentra belleza en todo lo que haces. 
 	- Usa tu magia para preservar y proteger la vida y el equilibrio del mundo natural.
@@ -95,7 +97,7 @@ A continuación una breve introducción con los dioses más relevantes (disponib
 - **Títulos:** Los Hijos de la Tierra, los Guardianes de la Naturaleza
 - **Alineamiento:** Neutral  
 - **Dominios:** Naturaleza, Animal, Espíritu  
-- **Descripción:** Se dice que Los Primeros son un conjunto de espíritus que existían mucho antes de que los dioses dieran forma a __Ardheon__.  Estos espíritus primigenios se encarnan en formas de diferentes animales.  Promueven una conexión profunda con la tierra, los bosques y los animales que habitan en ella, viviendo en armonía con el mundo salvaje.  Para sus adoradores, cada animal tiene un espíritu y una lección que enseñar, y creen que al adoptar sus formas o emular sus habilidades, pueden alcanzar una mayor sabiduría y poder. Las tribus que veneran a estos espíritus suelen elegir una forma animal a la cuál adoran por encima de todas. No son dioses al uso, pero su gran poder y su profundo respeto por los ciclos naturales les otorgan un lugar sagrado dentro de la cosmovisión del mundo. Son adorados por muchos pueblos salvajes que viven en total armonía con la naturaleza, sin rastro de civilización.
+- **Descripción:** Se dice que Los Primeros son un conjunto de espíritus que existían mucho antes de que los dioses dieran forma a __Ardheon__.  Estos espíritus primigenios se encarnan en formas de diferentes animales.  Promueven una conexión profunda con la tierra, los bosques y los animales que habitan en ella, viviendo en armonía con el mundo salvaje.  Para sus adoradores, cada animal tiene un espíritu y una lección que enseñar, y creen que al adoptar sus formas o emular sus habilidades, pueden alcanzar una mayor sabiduría y poder. Las tribus que veneran a estos espíritus suelen elegir una forma animal a la cuál adoran por encima de todas. No son dioses al uso, pero su gran poder y su profunda influencia en los ciclos naturales les otorgan un lugar sagrado dentro de la cosmovisión del mundo. Son adorados por muchos pueblos salvajes que viven en total armonía con la naturaleza, sin rastro de civilización.
 - **Mandamientos:**
 	- Respeta y honra a los espíritus de los animales; ellos son tus guías y protectores.
 	- Vive en equilibrio con la naturaleza; la tierra te sustenta, y debes protegerla y preservarla.
@@ -134,7 +136,7 @@ A continuación una breve introducción con los dioses más relevantes (disponib
 - **Títulos:** El Hacedor, El Herrero de los Dioses, El Arquitecto del Gran Designio
 - **Alineamiento:** Legal Neutral
 - **Dominios:** Forja, Orden, Tierra
-- **Descripción:** Es el arquitecto del mundo, el defensor del equilibrio perfecto y el maestro de la artesanía, a Moradin lo adoran herreros, artesanos y mineros por igual, otorgando inspiración donde se le da respeto y oración. Sus seguidores ven el universo como una gran máquina donde cada componente tiene un papel esencial, y su fe se basa en mantener este mecanismo en funcionamiento. La devoción a Moradin es más fuerte en las comunidades enanas y gnomas, y muchos de sus templos constituyen el centro de poderosas fortalezas bajo tierra.
+- **Descripción:** Es el arquitecto del mundo, el defensor del equilibrio perfecto y el maestro de la artesanía, a Moradin lo adoran herreros, artesanos y mineros por igual, otorgando inspiración donde se le da respeto y oración. Sus seguidores ven el universo como una gran máquina donde cada componente tiene un papel esencial, y su fe se basa en mantener este mecanismo en funcionamiento. La devoción a Moradin es más fuerte en las comunidades [enanas](Especies.md##Enanos) y [gnomas](Especies.md##Gnomos), y muchos de sus templos constituyen el centro de poderosas fortalezas bajo tierra.
 - **Mandamientos:**
 	- Cumple tu propósito, trabaja con precisión y se leal a tu familia. Así mantendrás el orden en el gran diseño del mundo.
 	- No enfrentes las adversidades con caos e improvisación, permanece estoico y tenaz.
@@ -157,11 +159,11 @@ A continuación una breve introducción con los dioses más relevantes (disponib
 
 ##  Flamal
 
-**Títulos:** El Renacido Eterno, el Corazón de los Bosques, el Patrón de las Siembras  
-**Alineamiento:** Neutral  Bueno 
-**Dominios:** Naturaleza, Vida, Renovación, Otoño
-**Descripción:** Flamal es el dios primordial de la vegetación y cultivo, el símbolo viviente de la regeneración, el crecimiento y el otoño. Como el primer ser en traer la vida vegetal al mundo, Flamal es la fuerza detrás del renacimiento de los bosques y los campos, y un protector incansable de la vida verde. Sus seguidores veneran la tierra como fuente de toda vida, cuidando los ciclos naturales de crecimiento, cosecha y reforestación. Flamal enseña que, aunque la destrucción es parte de la vida, siempre debe ir acompañada de la renovación.  Su culto es muy popular entre la gente de a pie que trabaja la tierra de una u otra forma.
-**Mandamientos:**
-- Fomenta el crecimiento y protege los bosques, asegurando que la vida verde florezca para las generaciones futuras.
-- Respeta los ciclos naturales de la vida, comprendiendo que la muerte alimenta el renacimiento.
-- Cuida de la tierra y todo lo que crece en ella, manteniendo el equilibrio entre el hombre y la naturaleza.
+- **Títulos:** El Renacido Eterno, el Corazón de los Bosques, el Patrón de las Siembras  
+- **Alineamiento:** Neutral  Bueno 
+- **Dominios:** Naturaleza, Vida, Renovación, Otoño
+- **Descripción:** Flamal es el dios primordial de la vegetación y cultivo, el símbolo viviente de la regeneración, el crecimiento y el otoño. Como el primer ser en traer la vida vegetal al mundo, Flamal es la fuerza detrás del renacimiento de los bosques y los campos, y un protector incansable de la vida verde. Sus seguidores veneran la tierra como fuente de toda vida, cuidando los ciclos naturales de crecimiento, cosecha y reforestación. Flamal enseña que, aunque la destrucción es parte de la vida, siempre debe ir acompañada de la renovación.  Su culto es muy popular entre la gente humilde y que trabajan la tierra de una u otra forma.
+- **Mandamientos:**
+	- Fomenta el crecimiento y protege los bosques, asegurando que la vida verde florezca para las generaciones futuras.
+	- Respeta los ciclos naturales de la vida, comprendiendo que la muerte alimenta el renacimiento.
+	- Cuida de la tierra y todo lo que crece en ella, manteniendo el equilibrio entre el hombre y la naturaleza.
