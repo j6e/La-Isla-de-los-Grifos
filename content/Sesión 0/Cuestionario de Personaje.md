@@ -2,7 +2,7 @@
 title: Cuestionario de Personaje
 ---
 
-El objetivo del siguiente cuestionario es ayudarte a crear un buen personaje con el que disfrutar de tu paso por la Isla de los Grifos. No es necesario que te extiendas más allá de una o dos frases (aunque puedes hacerlo si así lo deseas). Si tienes cualquier duda, no dudes en preguntarme.
+El objetivo del siguiente cuestionario es ayudarte a crear un buen personaje con el que disfrutar de tu paso por la Isla de los Grifos. No es necesario que te extiendas más allá de una o dos frases (aunque puedes hacerlo si así lo deseas). Si tienes cualquier duda, no dudes en preguntarme. [Aquí](https://docs.google.com/document/d/1WPFyxCwmq1mW-glxpgok5NgL3dQj3bYLj3L9OsvN4RM/edit?usp=sharing) tenéis una plantilla en Google Docs que podéis usar para responder (también me vale una nota o un Whatsapp).
 
 >[!info]+ **¿Qué sabe tu personaje sobre la Isla de los Grifos?**
 >  Tu personaje posee un mapa y conocimiento superficial sobre la isla de los grifos. 
