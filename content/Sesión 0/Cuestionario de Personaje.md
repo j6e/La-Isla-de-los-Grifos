@@ -13,7 +13,6 @@ El objetivo del siguiente cuestionario es ayudarte a crear un buen personaje con
 - **Edad:**
 - **Breve descripción física:**
 - **Especie:** _(A elegir de las disponibles en el manual, breve introducción [aquí](Especies.md))_
-- **Background:** _(A elegir de las disponibles en el manual)_
 - **Clase:**  _(A elegir de las disponibles en el manual, breve introducción [aquí](Clases.md))_
 
 ## Trasfondo
