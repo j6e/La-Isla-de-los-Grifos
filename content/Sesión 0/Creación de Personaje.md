@@ -16,12 +16,11 @@ Debéis especificar todas las decisiones de creación de personaje: especie, ori
 
 ### Material Permitido
 
-Solamente contenido publicado en el manual  del jugador 5e 2024.  Ningún suplemento o manual antiguo está permitido.
-
-El resto de información necesaria para crear un personaje se encuentra en las siguientes páginas:
-- [[Especies]]: Información sobre las especies disponibles en creación del personaje.
-- [[Panteón Divino]]: Información sobre los dioses de la ambientación
-- [[Lo que saben los personajes]]: Información de la que dispone tu personaje antes de venir a la Isla.
+Solamente contenido publicado en el manual  del jugador 5e 2024 (si no disponéis de él no os preocupéis).  Ningún suplemento o manual antiguo está permitido. El resto de información necesaria para crear un personaje se encuentra en las siguientes páginas:
+- [[Especies]]: Información sobre las especies disponibles en creación del personaje. La especie representa la ascendencia de tu personaje: eres hijo de elfos, quizá de humanos, etc.
+- [[Clases]]: Una breve descripción sobre las clases disponibles para vuestros personajes. Especialmente útil si nunca habéis jugado a _D&D_ y no conocéis cuales son vuestras opciones.
+- [[Panteón Divino]]: Información sobre los dioses de la ambientación. Los dioses os pueden dar ideas de cómo ve el mundo vuestro personaje y cuál es su brújula moral.
+- [[Lo que saben los personajes]]: Información de la que dispone tu personaje antes de venir a la Isla. Sirve para generar un _gancho_ de aventura, un motivo para que tu personaje venga  a la isla.
 
 ### Opciones prohibidas
 

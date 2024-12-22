@@ -15,7 +15,7 @@ Esta es una guía general sobre como se jugará exactamente esta campaña. La id
 - Existen varias reglas de composición de grupos de aventureros dispuestos a jugar una partida:
   - Las partidas tienen que componerse de entre 3 a 5 jugadores.
   - La diferencia máxima de niveles entre jugadores de la misma partida es 3.
-  - Con el objetivo de que los mismos jugadores no acaparen siempre todos los huecos, no se pueden jugar más de dos o tres partidas seguidas (veremos, dependiendo del éxito que tenga la partida)
+  - Con el objetivo de que los mismos jugadores no acaparen siempre todos los huecos, tendrán prioridad para jugar aquellos jugadores que no hayan jugado recientemente (veremos, dependiendo del éxito que tenga la partida)
 
 - Yo publicaré un calendario de antemano y los jugadores podréis organizar partidas con antelación en estos huecos. Será necesario hacer un anuncio de la partida con el objetivo del mismo (qué lugar se pretende visitar o investigar, objetivo de la misión...)
 
