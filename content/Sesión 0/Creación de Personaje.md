@@ -12,7 +12,7 @@ Podéis crear vuestra ficha usando una de estas dos opciones:
 - **DnDBeyond**: Si disponéis de cuenta y del [manual del jugador 2024](https://www.dndbeyond.com/sources/dnd/phb-2024) [DnDBeyond](https://www.dndbeyond.com) puede ser la opción más cómoda. Os puedo proveer de un enlace para participar en la campaña, pedídmelo por privado.
 - **Google Sheet**: Existe una versión de la ficha de personaje en [google sheets](https://docs.google.com/spreadsheets/d/1DDI6GlcQ3GyhwD8Jio3A1wLddcOyzeZEk-448LfSUys/edit?gid=140008454#gid=140008454) mantenida por la comunidad. Si los excels son vuestro kink no soy nadie para juzgar.
 
-Debéis especificar todas las decisiones de creación de personaje: especie, origen, clase, equipo... Una vez tengáis hecha la ficha, enviádmela previamente para comprobar que todo está OK. 
+Debéis especificar todas las decisiones de creación de personaje: especie, origen, clase, equipo... Una vez tengáis hecha la ficha, enviádmela previamente para comprobar que todo está OK. Si os abruma un poco, hablad conmigo y hacemos una llamada para crear la ficha juntos.
 
 ### Material Permitido
 
@@ -30,6 +30,9 @@ Solamente contenido publicado en el manual  del jugador 5e 2024 (si no disponéi
 - Los personajes empiezan a nivel 1
 - Los personajes deben ser al menos adolescentes (unos 14 años humanos)
 - Se usará el sistema de _point buy_ (compra de puntos) para determinar las puntuaciones de característica.
+
+### Límites de Interpretación
+Los [[Límites de Interpretación]] sirven para garantizar que todos estamos cómodos durante la partida. Si habéis jugado antes al rol son cosas que podrían considerarse de sentido común, pero no está demás darle una leída.
 
 ## Cuestionario de Personaje
 El [[Cuestionario de Personaje]] es un documento diseñado para ayudarte a pensar cómo es tu personaje, cuál es su pasado y cómo y por qué ha llegado a la Isla de los Grifos. Remítemelo cuando lo rellenes. 
