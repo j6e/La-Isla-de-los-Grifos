@@ -4,7 +4,7 @@ title: Una Campaña de tipo West Marches
 
 Una campaña de _West Marches_ es un tipo de partida de rol con características únicas que la diferencian de las campañas tradicionales. Se diseñó originalmente para fomentar la exploración, la libertad de elección y la autogestión por parte de los jugadores. A continuación, te explico sus aspectos clave:
 
-### **Características principales de una campaña West Marches**
+### Características principales de una campaña West Marches
 
 1. **Exploración abierta y sandbox**
     - El mundo o la región (en nuestro caso la Isla de los Grifos) es un entorno abierto lleno de lugares por descubrir, peligros y secretos.
@@ -30,10 +30,12 @@ Una campaña de _West Marches_ es un tipo de partida de rol con características
     - Más que una historia lineal o centrada en un villano, el atractivo del estilo __West Marches__ está en el entorno mismo: sus misterios, criaturas, desafíos y lugares únicos. Por suerte la Isla de los Grifos es un entorno ideal para desarrollar esta aventura, pues es un lugar lleno de peligros y misterios.
     - El director de juego prepara un entorno dinámico en lugar de una trama estricta.
 
-### **Beneficios de este formato**
+### Beneficios de este formato
 
 - **Flexibilidad:** Por desgracia, nos hemos hecho mayores y todos tenemos diferentes obligaciones que atender, muchas veces esto hace imposible gestionar una campaña a largo plazo con el mismo número de personas. Esto lo hace un estilo de juego ideal para grupos grandes o con horarios variables, ya que no todos los jugadores deben estar presentes en cada sesión. 
 - **Autonomía:** Empodera a los jugadores para tomar decisiones y liderar sus propias aventuras. Los jugadores hablan entre sí y proponen las aventuras que quieren jugar.
 - **Rejugabilidad:** Permite que diferentes jugadores exploren el mismo mundo de maneras completamente distintas.
 
 ### ¿Cómo lo vamos a implementar?
+
+Tienes los detalles disponibles en [[Cómo se Juega]].
