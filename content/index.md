@@ -12,4 +12,4 @@ Para comenzar a jugar necesitas un personaje, para ello te recomiendo que leas l
 
 Luego puedes seguir leyendo en [[Cómo se Juega]] para ver como organizaremos las partidas.
 
-Si estás interesado en ver las aventuras que están viviendo los jugadores, pásate por la sección *Relatos*.
+Si ya estás jugando la partida, pásate por [[00 - Índice|Autogestión del Jugador]] donde encontrarás los relatos, aventuras, así como la lista de personajes que hay actualmente en la isla.
