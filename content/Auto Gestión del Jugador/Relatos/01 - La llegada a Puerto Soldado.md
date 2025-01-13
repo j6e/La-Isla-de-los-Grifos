@@ -10,9 +10,9 @@ Jugadores:
 ---
 
 >[!abstract]- **Detalles del relato**
->  **Fecha de la Partida:** 2024-12-26
->  **Autor:** Broldan
->  **Jugadores:** Broldan, Kayran, Ganyalf, Blueno
+>  - **Fecha de la Partida:** 2024-12-26
+>  - **Autor:** Broldan
+>  - **Jugadores:** Broldan, Kayran, Ganyalf, Blueno
 
 Cuatro aventureros, unidos por circunstancias vitales variopintas, deciden embarcarse en la aventura de sus vidas: viajar a la Isla de los Grifos.  El grupo está compuesto por cuatro miembros:
 

@@ -10,9 +10,9 @@ Jugadores:
 ---
 
 >[!abstract]- **Detalles del relato**
->  **Fecha de la Partida:** 2025-01-05
->  **Autor:** Tyvar
->  **Jugadores:** Tyvar, Cirrus, Esteffan, Korik
+>  - **Fecha de la Partida:** 2025-01-05
+>  - **Autor:** Tyvar
+>  - **Jugadores:** Tyvar, Cirrus, Esteffan, Korik
 
 Tyvar no pudo pegar ojo en toda la noche. Un elfo del bosque, de la tribu de los Tholod, durmiendo en la taberna de una ciudad humana... No se lo podría haber imaginado escasas semanas atrás, cuando dormía bajo la luz de las estrellas que se filtraban por las copas de los árboles.
 

@@ -7,9 +7,9 @@ Participantes:
 ---
 
 >[!abstract]- **Detalles de la aventura**
->  **Fecha de la Partida:**  2025-01-19 19h
->  **Autor:** Broldan
->  **Participantes:** Broldan
+>  - **Fecha de la Partida:**  2025-01-19 19h
+>  - **Autor:** Broldan
+>  - **Participantes:** Broldan
 
 A quien competa,
 

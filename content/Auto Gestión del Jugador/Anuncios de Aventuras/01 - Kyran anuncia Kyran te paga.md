@@ -7,9 +7,9 @@ Participantes:
 ---
 
 >[!abstract]- **Detalles de la aventura**
->  **Fecha de la Partida:**  2025-01-30 17h
->  **Autor:**  Kyran
->  **Participantes:** Kyran,
+>  - **Fecha de la Partida:**  2025-01-30 17h
+>  - **Autor:**  Kyran
+>  - **Participantes:** Kyran,
 
 **Kyran anuncia Kyran te paga 🎸🎵**
 
