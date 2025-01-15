@@ -1,5 +1,5 @@
 ---
-title: Índice
+title: 00 - Índice
 ---
 
 En esta sección se recopilarán todas la información referente al desarrollo de la partida que de alguna forma depende de los jugadores.
