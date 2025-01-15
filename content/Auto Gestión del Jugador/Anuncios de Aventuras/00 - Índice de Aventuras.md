@@ -1,5 +1,5 @@
 ---
-title: Índice de Aventuras
+title: 00 - Índice de Aventuras
 ---
 
 ## Aventuras pendientes
