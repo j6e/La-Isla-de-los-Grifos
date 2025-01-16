@@ -10,12 +10,12 @@ Jugadores:
 ---
 
 >[!abstract]- **Detalles del relato**
->  - **Fecha de la Partida:** 
+>  - **Fecha de la Partida:** 2025-01-12
 >  - **Autor:** Elysia
 >  - **Jugadores:** Elysia, Caelus, Toshi, Adoh
 
 El trayecto hacia la Isla de los Grifos duró varias semanas pero cuando finalmente atracamos a 
-la Isla de los Grifos, el poderoso Yelmalio nos honraba con un fantástico día. El olor a salitre nos daba la bienvenida mientras me encontraba muy lejos de casa. Durante la travesía, conocí a tres aventureros muy variopintos que, simplemente por conveniencia para alcanzar más rápidamente nuestros objetivos, decidimos transitar juntos durante los primeros días. 
+la Isla de los Grifos, la poderosa Yelmalio nos honraba con un fantástico día. El olor a salitre nos daba la bienvenida mientras me encontraba muy lejos de casa. Durante la travesía, conocí a tres aventureros muy variopintos que, simplemente por conveniencia para alcanzar más rápidamente nuestros objetivos, decidimos transitar juntos durante los primeros días. 
 
 Tras abonar una cantidad por adentrarnos por el que se ve que es el único asentamiento 
 civilizado de toda la isla, Puerto Soldado, fuimos directamente hasta la taberna en busca de un 
