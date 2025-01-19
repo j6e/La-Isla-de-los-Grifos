@@ -7,5 +7,6 @@ title: Puntos de Rol
 - **Tyvar:** 2
 - **Broldan:** 2
 - **Elysia:** 1
+- **Kaelus:** 1
 
 [[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.
