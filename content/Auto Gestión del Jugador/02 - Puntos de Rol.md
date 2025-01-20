@@ -8,5 +8,6 @@ title: Puntos de Rol
 - **Broldan:** 2
 - **Elysia:** 1
 - **Kaelus:** 1
+- **Ganjalf:** 1
 
 [[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.
