@@ -9,8 +9,9 @@ Jugadores:
   - Korik
 ---
 
->[!abstract]- **Detalles del relato**
+>[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-05
+>  - **Aventura:** Llegada a la Isla
 >  - **Autor:** Tyvar
 >  - **Jugadores:** Tyvar, Cirrus, Esteffan, Korik
 

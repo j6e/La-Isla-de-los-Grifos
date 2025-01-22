@@ -9,8 +9,9 @@ Jugadores:
 - Adoh
 ---
 
->[!abstract]- **Detalles del relato**
+>[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-12
+>  - **Aventura:** Llegada a la Isla
 >  - **Autor:** Elysia
 >  - **Jugadores:** Elysia, Caelus, Toshi, Adoh
 

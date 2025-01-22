@@ -9,8 +9,9 @@ Jugadores:
   - Blueno
 ---
 
->[!abstract]- **Detalles del relato**
+>[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2024-12-26
+>  - **Aventura:** Llegada a la Isla
 >  - **Autor:** Broldan
 >  - **Jugadores:** Broldan, Kayran, Ganyalf, Blueno
 

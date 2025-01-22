@@ -10,8 +10,9 @@ Jugadores:
 - Rodlam
 ---
 
->[!abstract]- **Detalles del relato**
+>[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-19
+>  - **Aventura:** [[02 - Por las vacas y la cerveza]]
 >  - **Autor:** Ganjalf el verde
 >  - **Jugadores:** Ganjalf,  Broldan, Cirrus, Toshi, Rodlam
 
