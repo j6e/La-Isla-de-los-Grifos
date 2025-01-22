@@ -6,3 +6,5 @@ title: 00 - Índice de Relatos
 - [[02 - El Desvelo de Tyvar]]
 - [[03 - Naufragio en la Playa del Norte]]
 - [[04 - Diario de Bitácora de Caelus I]]
+- [[05 - En la boca del Lobo]]
+- [[06 - Cartas al Clero]]
