@@ -9,7 +9,7 @@ Puntos de rol totales asignados.
 - **Broldan:** 2
 - **Elysia:** 1
 - **Ganjalf:** 1
-- **Caelus:** 1
+- **Caelus:** 2
 - **Rodlam:** 1
 
 ## Puntos de Rol Restantes
@@ -19,5 +19,5 @@ Puntos de Rol disponibles para gastar:
 - **Broldan:** 2
 - **Elysia:** 0
 - **Ganjalf:** 1
-- **Caelus:** 1
+- **Caelus:** 2
 - **Rodlam:** 1
