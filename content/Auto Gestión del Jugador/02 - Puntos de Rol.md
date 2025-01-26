@@ -1,23 +1,22 @@
 ---
 title: Puntos de Rol
 ---
-[[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.
-## Lista de Puntos de Rol Asignados
-Puntos de rol totales asignados.
-- **Kyran:** 1 
-- **Tyvar:** 3
-- **Broldan:** 2
-- **Elysia:** 2
-- **Ganjalf:** 1
-- **Caelus:** 2
-- **Rodlam:** 1
+A continuación la tabla con los puntos de rol asignados, los gastados y los disponibles para gastar de cada personaje.
 
-## Puntos de Rol Restantes
-Puntos de Rol disponibles para gastar:
-- **Kyran:** 1 
-- **Tyvar:** 3
-- **Broldan:** 2
-- **Elysia:** 1
-- **Ganjalf:** 1
-- **Caelus:** 2
-- **Rodlam:** 1
+| **Personaje** | **Asignados** | **Gastados** | **Disponibles** |
+| ------------- | ------------- | ------------ | --------------- |
+| Broldan       | 2             |              | 2               |
+| Ganjalf       | 1             |              | 1               |
+| Kyran         | 1             |              | 1               |
+| Blueno        |               |              |                 |
+| Tyvar         | 3             |              | 3               |
+| Korik         |               |              |                 |
+| Esteffan      |               |              |                 |
+| Cirrus        |               |              |                 |
+| Toshi         |               |              |                 |
+| Elysia        | 2             | 1            | 1               |
+| Caelus        | 2             |              | 2               |
+| Adoh          |               |              |                 |
+| Rodlam        | 1             |              | 1               |
+
+[[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.
