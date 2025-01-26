@@ -1,5 +1,5 @@
 >[!abstract] **Detalles del relato**
->  - **Fecha de la Partida:** 2025-01-12
+>  - **Fecha de la Partida:** 2025-01-19
 >  - **Aventura:** [[03 - Camino a Surlt]]
 >  - **Autor:** Caelus
 >  - **Jugadores:** Elysia, Caelus, Adoh, Korik, Tyvar
