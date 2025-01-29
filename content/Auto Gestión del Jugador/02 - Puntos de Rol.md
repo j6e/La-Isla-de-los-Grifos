@@ -5,7 +5,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 
 | **Personaje** | **Asignados** | **Gastados** | **Disponibles** |
 | ------------- | ------------- | ------------ | --------------- |
-| Broldan       | 2             |              | 2               |
+| Broldan       | 3             |              | 3               |
 | Ganjalf       | 1             |              | 1               |
 | Kyran         | 1             |              | 1               |
 | Blueno        |               |              |                 |
@@ -16,7 +16,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Toshi         |               |              |                 |
 | Elysia        | 3             | 1            | 2               |
 | Caelus        | 2             |              | 2               |
-| Adoh          |               |              |                 |
+| Adoh          | 1             |              | 1               |
 | Rodlam        | 1             |              | 1               |
 
 [[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.

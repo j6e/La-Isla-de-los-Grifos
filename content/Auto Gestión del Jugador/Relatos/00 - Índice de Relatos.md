@@ -10,3 +10,4 @@ title: 00 - Índice de Relatos
 - [[06 - Cartas al Clero]]
 - [[07 - Diario de Bitácora de Caelus II]]
 - [[08 - De Camino a Surlt]]
+- [[09 - Diario de Broldan I]]
