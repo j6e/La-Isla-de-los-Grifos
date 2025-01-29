@@ -6,10 +6,10 @@ Participantes:
   - Broldan
 ---
 
->[!abstract]- **Detalles de la aventura**
+>[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-01-19 19h
 >  - **Autor:** Broldan
->  - **Participantes:** Broldan
+>  - **Participantes:** Broldan, Cirrus, Ganjalf, Toshi, Rodlam
 
 A quien competa,
 

@@ -21,9 +21,9 @@ Esta es una guía general sobre como se jugará exactamente esta campaña. La id
 
 ## Fuera de las sesiones
 
+- Al inicio de la campaña se entrega a todos los jugadores una copia del  [Mapa Antiguo de la Isla de los Grifos](Lo%20que%20saben%20los%20personajes.md) que sirve como gancho para la aventura. Este mapa no es exacto.
+
 - La historia del mundo es compartida. Los jugadores que creen resúmenes escritos de las aventuras jugadas recibirán un punto de inspiración. Lo acontecido, a nivel general, en las aventuras es público para el resto de jugadores. La Isla tiene muchos secretos y es parte de la gracia descubrirlos, intenta no arruinar la diversión de los demás revelándolos:
   - Ejemplo: Escribo un relato narrando la última aventura, donde visitamos X mazmorra. Dentro hay un puzzle que hay que resolver para poder pasar al fondo. En el relato no incluyo la solución al puzzle.
 
 - Los jugadores son los encargados de crear el mapa del mundo mientras van jugando. Existe una copia común del mapa del mundo que los aventureros van dibujando mientras van explorando nuevas áreas. Esta puede ser inexacta, pero no hacerse errónea de mala fe. Los jugadores pueden corregir el mapa en cualquier momento si creen que está equivocado.
-
-- Al inicio de la campaña se entrega a todos los jugadores una copia del  [Mapa Antiguo de la Isla de los Grifos](Lo%20que%20saben%20los%20personajes.md) que sirve como gancho para la aventura. Este mapa no es exacto.
