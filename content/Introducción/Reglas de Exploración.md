@@ -1,6 +1,10 @@
 > "El viaje es el camino, no el destino."
 
-Los viajes son una parte fundamental de la vida de los aventureros en la Isla de los Grifos. El objetivo de estas reglas es servir de lienzo para representar los diferentes peligros y oportunidades que el grupo se encuentra en el camino, dando cabida a interpretar y utilizar todo tipo de habilidades y recursos que posean los personajes.
+Los viajes son una parte fundamental de la vida de los aventureros en la Isla de los Grifos. El objetivo de estas reglas es servir de lienzo para representar los diferentes peligros y oportunidades que el grupo se encuentra en el camino, dando cabida a interpretar y utilizar 
+todo tipo de habilidades y recursos que posean los personajes.
+
+>[!Warning]+ **Work In Progress**
+>  Esta sección es provisional y puede sufrir cambios en el futuro
 ## Definir la Ruta
 El destino y el camino que los aventureros elijan determinará la duración y dificultad del viaje. La *Dificultad del Viaje* es la *CD* que tendrán que vencer los personajes en la **Tirada de Viaje Grupal**.
 
