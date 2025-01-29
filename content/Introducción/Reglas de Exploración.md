@@ -14,6 +14,9 @@ El destino y el camino que los aventureros elijan determinará la duración y di
 
 ## Elegir Roles
 Un viaje exitoso requiere de la cooperación de todos los miembros del grupo, para ello cada uno deberá adquirir un rol que cumplir en la expedición. Este rol da acceso a diferentes tiradas con las que contribuir a la **Tirada de Viaje Grupal**, aunque siempre podéis proponer el uso de otra habilidad que consideréis para sustituir la tirada o el uso de un recurso (como un poder o un conjuro) para obtener un éxito automático o un bono a la tirada.
+
+>[!info]+ **Tablas para Personajes**
+>  Todo la información que necesitan los personajes está disponible en las [[Tablas Explroación.pdf |Tablas de Exploración]]. Tendré disponibles copias para la mesa de juego.
 ### Guía
 El guía es el encargado de que el grupo llegue a su destino sano y salvo. Para ello puede realizar cualquiera de las siguientes tiradas:
 - **Abrir Camino:** Te sientes como en casa en la espesura, llevando al grupo por las mejores rutas. Tirada: **Sabiduría (Supervivencia)**

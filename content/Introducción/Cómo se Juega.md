@@ -12,6 +12,8 @@ Esta es una guía general sobre como se jugará exactamente esta campaña. La id
 - Las partidas se crean por iniciativa de los jugadores. Estos deciden donde ir y que hacer con antelación.  El resto de jugadores puede decidir si participar en esta aventura si quedan huecos.
   - Por ejemplo: Un jugador, o varios, deciden que quieren ir al sitio X por el motivo Y. El resto de jugadores pueden apuntarse si creen que les interesa la aventura.
 
+- Existen unas [[Reglas de Exploración]] que se usan para el componente de viaje que existe en cada partida.
+
 - Existen varias reglas de composición de grupos de aventureros dispuestos a jugar una partida:
   - Las partidas tienen que componerse de entre 3 a 5 jugadores.
   - La diferencia máxima de niveles entre jugadores de la misma partida es 3.
