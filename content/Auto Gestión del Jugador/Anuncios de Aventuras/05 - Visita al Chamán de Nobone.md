@@ -13,12 +13,19 @@ Participantes:
 Hola. Soy Adoh y busco gente para ir de exploración.
 
 Cerca del norte de Puerto Soldado parece que hay un poblado Votanki llamado Nobone donde vive un chamán. 
+
 Le tengo que preguntar cosas pero fuera de la ciudad es peligroso.
+
 Si alguien quiere.
+
 Que se una.
+
 No sé.
+
 Si os viene bien.
+
 No hay prisa.
+
 Todo bien.
 
 Si venís por favor, no dañéis el bosque o el bosque nos dañará.
