@@ -3,7 +3,10 @@ title: 01 - Kyran anuncia Kyran te paga
 fecha: 2025-01-30
 autor: Kyran
 Participantes:
-  - Kyran
+  - Cirrus
+  - Brodlan
+  - Esteffan
+  - Blueno
 ---
 
 >[!abstract] **Detalles de la aventura**

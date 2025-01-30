@@ -1,6 +1,6 @@
 ---
 title: 09 - Diario de Broldan
-fecha: 2025-01-05
+fecha: 2025-01-29
 autor: Broldan
 Jugadores:
   - Cirrus
@@ -13,6 +13,7 @@ Jugadores:
 >[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-19
 >  - **Autor:**  Broldan
+>  - **Aventura:** [[02 - Por las vacas y la cerveza]]
 >  - **Jugadores:** Ganjalf, Broldan, Cirrus, Toshi, Rodlam
 
 ## Día 3: La Llamada de la Aventura

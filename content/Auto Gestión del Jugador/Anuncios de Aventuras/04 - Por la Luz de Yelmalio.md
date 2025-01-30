@@ -1,14 +1,16 @@
 ---
 title: 04 - Por la Luz de Yelmalio
 fecha: 2025-01-05
-autor: 
+autor: Elysia
 Participantes:
+  - Elysia
+  - Caelus
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-02-09
 >  - **Autor:** Elysia
->  - **Participantes:** Elysia
+>  - **Participantes:** Elysia, Caelus, 
 
 ## ¡POR LA LUZ DE YELMALIO, SE REQUIEREN VALIENTES! 
 

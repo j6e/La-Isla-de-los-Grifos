@@ -4,6 +4,10 @@ fecha: 2025-01-19
 autor: Broldan
 Participantes:
   - Broldan
+  - Cirrus
+  - Ganjalf
+  - Toshi
+  - Rodlam
 ---
 
 >[!abstract] **Detalles de la aventura**

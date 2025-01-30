@@ -4,6 +4,10 @@ fecha: 2025-01-05
 autor: Tyvar
 Participantes:
   - Tyvar
+  - Korik
+  - Elysia
+  - Caelus
+  - Adoh
 ---
 
 >[!abstract] **Detalles de la aventura**
