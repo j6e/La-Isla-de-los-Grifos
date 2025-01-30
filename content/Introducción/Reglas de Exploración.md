@@ -10,9 +10,9 @@ El destino y el camino que los aventureros elijan determinará la duración y di
 
 | **Distancia** | **Distancia Max** | **Duración Máxima** | **Encuentros** |
 | ------------- | ----------------- | ------------------- | -------------- |
-| Corta         | 12 hex (72 km)    | 3 días              | 1              |
-| Media         | 28 hex (168 km)   | 7 días              | 2              |
-| Lraga         | 60 hex (1440km)   | 15 días             | 3              |
+| Corta         | 12 hex (72 km)    | 3 días              | 1+             |
+| Media         | 28 hex (168 km)   | 7 días              | 2+             |
+| Lraga         | 60 hex (1440km)   | 15 días             | 3+             |
 
 **Dificultad del Viaje = 10 + Bono por Terreno + Bono por Clima**
 
@@ -97,21 +97,22 @@ Ayudas a un aliado con sus Preparativos. Un personaje puede realizar la tirada d
 ### Tirada de Viaje Grupal
 La **Tirada de Viaje Grupal** representa como de bien se desenvuelve el grupo en el viaje. Si todos trabajan en equipo y hacen bien sus tareas, el viaje será menos peligroso y ocurrirán menos encuentros. Si su trabajo en equipo flaquea o algunas tareas no son completadas con éxito, el grupo se enfrentará a más dificultades. Una vez todos los miembros del grupo realicen sus pruebas de habilidad (usando como CD el valor de *Dificultad del Viaje*), apuntad el número de éxitos conseguidos.
 
-| **Resultado**                | **Número de Encuentros** |
-| ---------------------------- | ------------------------ |
-| Todos tienen éxito           | Base -1 (min 1)          |
-| Más de la mitad tienen éxito | Base                     |
-| La mitad o más fracasan      | Base + 1                 |
-| Todos fracasan               | Base +2                  |
+| **Resultado**                | **Grado de Éxito** |
+| ---------------------------- | ------------------ |
+| Todos tienen éxito           | Magnífico          |
+| Más de la mitad tienen éxito | Éxito              |
+| La mitad o más fracasan      | Deficiente         |
+| Todos fracasan               | Pifia              |
 
 ### Resolver Encuentros
-Una vez determinado el número de encuentros que habrá, el DM determinará el bioma (llanura, costa, montaña, ...) donde ocurre el encuentro y tirará en la tabla de encuentros para este bioma. Los encuentros pueden ser desde eventos positivos como encontrar lugares u objetos especiales a encuentros peligrosos con criaturas salvajes.
+El DM determinará en secreto el número de encuentros que habrá, determinará el bioma (llanura, costa, montaña, ...) donde ocurre cada encuentro y tirará en la tabla de encuentros para este bioma. Los encuentros pueden ser desde eventos positivos como encontrar lugares u objetos especiales a encuentros peligrosos con criaturas salvajes.
 
 ## El Final del Viaje
 Existen múltiples formas en las que puede terminar un viaje, desde el éxito al fracaso absoluto.
 ### Llegada con Éxito
 Si el grupo completa todos los encuentros, llega a su destino con éxito. Para determinar el estado en el que llega cada miembro del grupo, cada uno debe hacer una **tirada de salvación de Constitución**, la *CD* será la *Dificultad del Viaje* menos 1 por cada éxito conseguidos en la **Tirada de Viaje Grupal**. Los personajes que fallen ganarán un nivel de exhausto. Los que superen recuperarán un número de dados de golpe igual a la mitad de su nivel.
 
+**CD CON = *Dificultad del Viaje* - Nº Éxitos de Tirada de Viaje Grupal**
 ### Viaje Abortado
 Si el viaje se está torciendo, el grupo puede decidir abandonar el viaje entre encuentros. Para determinar el estado en el que llega cada miembro del grupo, cada uno debe hacer una **tirada de salvación de Constitución**, la *CD* será la *Dificultad del Viaje* menos 1 por cada éxito conseguidos en la **Tirada de Viaje Grupal**. Los personajes que superen no recibirán penalización alguna, los que fallen ganarán un nivel de exhausto y perderán la mitad de sus dados de golpe restantes (mínimo uno).
 
