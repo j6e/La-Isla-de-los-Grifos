@@ -8,9 +8,9 @@ Participantes:
 ---
 
 >[!abstract] **Detalles de la aventura**
->  - **Fecha de la Partida:** 2025-02-09
+>  - **Fecha de la Partida:** 2025-02-26
 >  - **Autor:** Elysia
->  - **Participantes:** Elysia, Caelus, 
+>  - **Participantes:** Elysia, Caelus, Tyvar, Blueno, ?
 
 ## ¡POR LA LUZ DE YELMALIO, SE REQUIEREN VALIENTES! 
 

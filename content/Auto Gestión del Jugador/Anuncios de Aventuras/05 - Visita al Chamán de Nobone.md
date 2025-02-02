@@ -7,9 +7,9 @@ Participantes:
 ---
 
 >[!abstract] **Detalles de la aventura**
->  - **Fecha de la Partida:**  2025-03-02
+>  - **Fecha de la Partida:**  2025-02-09
 >  - **Autor:** Adoh
->  - **Participantes:** Adoh
+>  - **Participantes:** Adoh, Broldan, Ganjalf
 
 Hola. Soy Adoh y busco gente para ir de exploración.
 

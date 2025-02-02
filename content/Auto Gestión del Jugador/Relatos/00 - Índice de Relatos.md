@@ -11,3 +11,4 @@ title: 00 - Índice de Relatos
 - [[07 - Diario de Bitácora de Caelus II]]
 - [[08 - De Camino a Surlt]]
 - [[09 - Diario de Broldan I]]
+- [[10 - La Búsqueda de las Bayas Acuosas]]
