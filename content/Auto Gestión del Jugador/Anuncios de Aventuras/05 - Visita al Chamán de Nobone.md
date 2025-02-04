@@ -4,6 +4,8 @@ fecha: 2025-01-05
 autor: Adoh
 Participantes:
   - Adoh
+  - Ganjalf
+  - Broldan
 ---
 
 >[!abstract] **Detalles de la aventura**

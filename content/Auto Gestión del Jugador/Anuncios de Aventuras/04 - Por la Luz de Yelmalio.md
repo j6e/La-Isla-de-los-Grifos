@@ -5,6 +5,8 @@ autor: Elysia
 Participantes:
   - Elysia
   - Caelus
+  - Tyvar
+  - Blueno
 ---
 
 >[!abstract] **Detalles de la aventura**
