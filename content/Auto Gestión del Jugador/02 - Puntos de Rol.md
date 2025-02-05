@@ -17,6 +17,6 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Elysia        | 3             | 1            | 2               |
 | Caelus        | 2             |              | 2               |
 | Adoh          | 1             |              | 1               |
-| Rodlam        | 1             |              | 1               |
+| Rodlam        | 2             |              | 2               |
 
 [[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.

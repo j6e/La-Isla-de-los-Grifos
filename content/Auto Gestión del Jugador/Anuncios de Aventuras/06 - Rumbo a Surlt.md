@@ -15,6 +15,6 @@ Habiéndose despejado el bloqueo, y con un grupo de aventureros encargándose de
 
 Partiré pronto de Puerto Soldado en dirección a Surlt, sin embargo todo camino no deja de tener peligros, pues largo es el camino y mas en esta isla.
 
-Adelante aventurero, ya te guíen la codicia por las plumas de grifo, el estomago por las chuletas de cerdo o misterios superiores, divinos o arcanos, únete a mi en esta travesia.
+Adelante aventurero, ya te guíen la codicia por las plumas de grifo, el estomago por las chuletas de cerdo o misterios superiores, divinos o arcanos, únete a mi en esta travesía.
 
 Rodlam
