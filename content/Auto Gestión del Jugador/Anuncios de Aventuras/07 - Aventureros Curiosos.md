@@ -34,5 +34,3 @@ Nos reunimos en **Puerto Soldado al amanecer**. No garantizo que volvamos sanos,
 
 **Por la naturaleza, la aventura y el humo de la pipa.**
 *Ganjalf, Druida Errante y Gnomo de Grandes Risas*
-
-**
