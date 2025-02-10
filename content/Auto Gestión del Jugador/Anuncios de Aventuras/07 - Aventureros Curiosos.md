@@ -1,13 +1,13 @@
 ---
 title: 07 - Aventureros Curiosos
-fecha: 2025-02-19
+fecha: 2025-02-20
 autor: Ganjalf
 Participantes:
   - Ganjalf
 ---
 
 >[!abstract] **Detalles de la aventura**
->  - **Fecha de la Partida:** 2025-02-19
+>  - **Fecha de la Partida:** 2025-02-20
 >  - **Autor:** Ganjalf
 >  - **Participantes:** Ganjalf 
 
