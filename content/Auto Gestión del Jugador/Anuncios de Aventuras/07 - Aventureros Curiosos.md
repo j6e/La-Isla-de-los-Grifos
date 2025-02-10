@@ -26,9 +26,9 @@ Mis objetivos para esta aventura serían:
 Si tienes espada, hechizo o algo de humor… Esta misión es para ti.
 
 **¿Qué ofrezco?** 
-🪙 Oro, fama y tesoros seguramente.  
-🌱 Posible conocimiento sobre plantas mágicas.  
-🍻 La oportunidad de beber con aventureros y buenas historias que contar.
+- 🪙 Oro, fama y tesoros seguramente.  
+- 🌱 Posible conocimiento sobre plantas mágicas.  
+- 🍻 La oportunidad de beber con aventureros y buenas historias que contar.
 
 Nos reunimos en **Puerto Soldado al amanecer**. No garantizo que volvamos sanos, pero sí que será divertido. ¡Apúntate!
 
