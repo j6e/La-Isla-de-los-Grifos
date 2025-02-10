@@ -5,6 +5,7 @@ title: 00 - Índice de Aventuras
 ## Aventuras pendientes
 - [[04 - Por la Luz de Yelmalio]]
 - [[06 - Rumbo a Surlt]]
+- [[07 - Aventureros Curiosos]]
 
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
