@@ -6,7 +6,7 @@ Jugadores:
   - Cirrus
   - Broldan
   - Ganjalf
-  - Rodlam
+  - Rodalm
   - Toshi
 ---
 
@@ -14,13 +14,13 @@ Jugadores:
 >  - **Fecha de la Partida:** 2025-01-19
 >  - **Autor:**  Broldan
 >  - **Aventura:** [[02 - Por las vacas y la cerveza]]
->  - **Jugadores:** Ganjalf, Broldan, Cirrus, Toshi, Rodlam
+>  - **Jugadores:** Ganjalf, Broldan, Cirrus, Toshi, Rodalm
 
 ## Día 3: La Llamada de la Aventura
 
 No podía sacarme de la cabeza aquella cueva. Desde la última vez que la exploramos, algo me inquietaba, Ganjalf mencionó que los lobos no estaban sanos, que algo malo les pasaba. La sensación de que habíamos dejado un mal sin erradicar me reconcomía, esa enfermedad podría enfermar a todos los animales de la isla y fastidiarnos la misión. Así que intente reunir un nuevo grupo de aventureros  para resolver el misterio de los lobos rabiosos.
 
-Al final el grupo lo conformamos, Ganjalf que estaba personalmente preocupado, Cirrus, un bárbaro de esa raza de semigigantes que cada vez veo mas a menudo, Toshi, un joven monje, algo debía de turbarle la mente porque no parecía estar centrado, y Rodlam un clérigo tiefling que veneraba a la diosa conocida como la embaucadora, portaba una mascara con la que realizaba sus plegarias.
+Al final el grupo lo conformamos, Ganjalf que estaba personalmente preocupado, Cirrus, un bárbaro de esa raza de semigigantes que cada vez veo mas a menudo, Toshi, un joven monje, algo debía de turbarle la mente porque no parecía estar centrado, y Rodalm un clérigo tiefling que veneraba a la diosa conocida como la embaucadora, portaba una mascara con la que realizaba sus plegarias.
 
 Así partimos, hacia el campamento de cazadores...son oscos estos humanos...hubieran tenido bronca con los enanos de las montañas.
 

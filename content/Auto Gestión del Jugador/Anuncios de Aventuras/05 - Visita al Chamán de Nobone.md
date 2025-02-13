@@ -6,12 +6,14 @@ Participantes:
   - Adoh
   - Ganjalf
   - Broldan
+  - Toshi
+  - Rodalm
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-02-09
 >  - **Autor:** Adoh
->  - **Participantes:** Adoh, Broldan, Ganjalf
+>  - **Participantes:** Adoh, Broldan, Ganjalf, Toshi, Rodalm
 
 Hola. Soy Adoh y busco gente para ir de exploración.
 

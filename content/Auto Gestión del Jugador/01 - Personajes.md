@@ -18,4 +18,4 @@ Aquí encontraréis una lista de los personajes que hay actualmente en la Isla.
 | Elysia        | Aasimar  | Clérigo 2   | 2                    |
 | Caelus        | Humano   | Brujo 2     | 2                    |
 | Adoh          | Humano   | Druida 3    | 3                    |
-| Rodlam        | Tiefling | Clérigo 3   | 3                    |
+| Rodalm        | Tiefling | Clérigo 3   | 3                    |

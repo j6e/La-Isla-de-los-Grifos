@@ -1,15 +1,16 @@
 ---
 title: 06 - Rumbo a Surlt
 fecha: 2025-03-02
-autor: Rodlam
+autor: Rodalm
 Participantes:
-  - Rodlam
+  - Rodalm
+  - Adoh
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-03-02
->  - **Autor:** Rodlam
->  - **Participantes:** Rodlam,
+>  - **Autor:** Rodalm
+>  - **Participantes:** Rodalm, Adoh
 
 Habiéndose despejado el bloqueo, y con un grupo de aventureros encargándose de los bandidos que azotaban la zona, el camino de las ciudadelas ya no está cerrado.
 
@@ -17,4 +18,4 @@ Partiré pronto de Puerto Soldado en dirección a Surlt, sin embargo todo camino
 
 Adelante aventurero, ya te guíen la codicia por las plumas de grifo, el estomago por las chuletas de cerdo o misterios superiores, divinos o arcanos, únete a mi en esta travesía.
 
-Rodlam
+Rodalm

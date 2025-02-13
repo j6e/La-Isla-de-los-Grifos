@@ -4,12 +4,13 @@ fecha: 2025-02-20
 autor: Ganjalf
 Participantes:
   - Ganjalf
+  - Kyran
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-02-20
 >  - **Autor:** Ganjalf
->  - **Participantes:** Ganjalf 
+>  - **Participantes:** Ganjalf, Kyran
 
 
 # 🌿⚔️ ¡SE BUSCAN AVENTUREROS CURIOSOS! ⚔️🌿  

@@ -7,14 +7,14 @@ Jugadores:
 - Broldan
 - Cirrus
 - Toshi
-- Rodlam
+- Rodalm
 ---
 
 >[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-19
 >  - **Aventura:** [[02 - Por las vacas y la cerveza]]
 >  - **Autor:** Ganjalf el verde
->  - **Jugadores:** Ganjalf,  Broldan, Cirrus, Toshi, Rodlam
+>  - **Jugadores:** Ganjalf,  Broldan, Cirrus, Toshi, Rodalm
 
 
 Todo comenzó con la llamada de aventura de Broldan, el guerrero humano y amante de los enanos, quien sospechaba que algo oscuro acechaba en la cueva que habíamos dejado atrás en nuestra última aventura. Así que, con un nuevo grupo de aventureros, decidimos regresar para resolver el misterio de los lobos rabiosos.
@@ -24,7 +24,7 @@ El equipo estaba compuesto por:
 - Broldan: nuestro líder en esta expedición.
 - Cirrus: un bárbaro goliath.
 - Toshi: un monje humano.
-- Rodlam: un clérigo tiefling.
+- Rodalm: un clérigo tiefling.
 
 La travesía al campamento de cazadores fue tranquila. Al llegar, nos encontramos con el líder de los cazadores, quien nos permitió pasar la noche en su campamento, y durante la cena, nos explicó más sobre el pacto entre su tribu y una tribu que adoraba a Telmor, el dios de los lobos (la tribu Telmori).
 

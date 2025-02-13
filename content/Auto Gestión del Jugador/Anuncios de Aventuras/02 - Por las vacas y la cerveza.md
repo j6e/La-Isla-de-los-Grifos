@@ -7,13 +7,13 @@ Participantes:
   - Cirrus
   - Ganjalf
   - Toshi
-  - Rodlam
+  - Rodalm
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-01-19 19h
 >  - **Autor:** Broldan
->  - **Participantes:** Broldan, Cirrus, Ganjalf, Toshi, Rodlam
+>  - **Participantes:** Broldan, Cirrus, Ganjalf, Toshi, Rodalm
 
 A quien competa,
 

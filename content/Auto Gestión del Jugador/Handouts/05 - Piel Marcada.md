@@ -1,5 +1,5 @@
 >[!Info] **Registro de Aventura**
->  Este objeto fue obtenido por Broldan, Cirrus, Rodlam, Toshi y Ganjalf en la cueva que hay en la colina tras el campamento de cazadores
+>  Este objeto fue obtenido por Broldan, Cirrus, Rodalm, Toshi y Ganjalf en la cueva que hay en la colina tras el campamento de cazadores
 
 *Este pedazo de piel curtida de incierto origen tiene un siniestro texto marcado sobre ella*
 
