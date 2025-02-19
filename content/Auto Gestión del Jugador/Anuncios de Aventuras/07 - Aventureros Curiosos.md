@@ -5,12 +5,14 @@ autor: Ganjalf
 Participantes:
   - Ganjalf
   - Kyran
+  - Elysia
+  - Caelus
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-02-20
 >  - **Autor:** Ganjalf
->  - **Participantes:** Ganjalf, Kyran
+>  - **Participantes:** Ganjalf, Kyran, Elysia, Caelus
 
 
 # 🌿⚔️ ¡SE BUSCAN AVENTUREROS CURIOSOS! ⚔️🌿  

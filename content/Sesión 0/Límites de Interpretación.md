@@ -40,4 +40,4 @@ La violencia es un elemento común en muchas historias de D&D, pero establecerem
 
 ### **5. Temas Sensibles y Discriminación**
 
-En la partida no se tratarán temas que incluyan discriminación, odio o violencia basada en raza, género u orientación sexual. Queremos construir una narrativa inclusiva y acogedora para todos.
+En la partida no se tratarán temas que incluyan discriminación, odio o violencia basada en raza, género u orientación sexual. Queremos construir una narrativa inclusiva y acogedora para todos. Por supuesto, esto implica que tampoco serán bien recibidos comentarios en el mismo sentido fuera del rol. 

@@ -14,7 +14,7 @@ Aquí encontraréis una lista de los personajes que hay actualmente en la Isla.
 | Korik         | Gnomo    | Mago 2      | 2                    |
 | Esteffan      | Mediano  | Pícaro 2    | 2                    |
 | Cirrus        | Goliath  | Bárbaro 3   | 3                    |
-| Toshi         | Humano   | Monje 2     | 3                    |
+| Toshi         | Humano   | Monje 3     | 3                    |
 | Elysia        | Aasimar  | Clérigo 2   | 2                    |
 | Caelus        | Humano   | Brujo 2     | 2                    |
 | Adoh          | Humano   | Druida 3    | 3                    |

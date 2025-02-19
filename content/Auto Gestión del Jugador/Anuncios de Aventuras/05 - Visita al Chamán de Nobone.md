@@ -1,6 +1,6 @@
 ---
 title: 05 - Visita al Chamán de Nobone
-fecha: 2025-01-05
+fecha: 2025-02-09
 autor: Adoh
 Participantes:
   - Adoh
