@@ -1,9 +1,22 @@
+---
+title: 06 - Cartas al Clero
+fecha: 2025-01-19
+autor: Rodalm
+Jugadores:
+- Ganjalf
+- Broldan
+- Cirrus
+- Toshi
+- Rodalm
+---
+
 >[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-19
 >  - **Aventura:** [[02 - Por las vacas y la cerveza]]
 >  - **Autor:**  Rodalm
 >  - **Jugadores:** Ganjalf,  Broldan, Cirrus, Toshi, Rodalm
-## De la llegada y el primer dia:
+
+## De la llegada y el primer día:
 
 Largos fueron los días que me trajeron a esta isla alejada de la mano de la diosa, una semana infame travesía marítima desde el puerto de Argal bajo orden directa de mi patrona, el pergamino encontrado bajo el templo con siniestras noticias desde la isla de los grifos… de hace 100 años! la había perturbado, más aún dado que el bibliotecario no había encontrado otras comunicaciones posteriores.
 

@@ -1,3 +1,15 @@
+---
+title: 08 - De Camino a Surlt
+fecha: 2025-01-19
+autor: Elysia
+Jugadores:
+- Elysia
+- Caelus
+- Adoh
+- Korik
+- Tyvar
+---
+
 >[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-19
 >  - **Aventura:** [[03 - Camino a Surlt]]

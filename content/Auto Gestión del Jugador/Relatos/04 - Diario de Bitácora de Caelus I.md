@@ -1,8 +1,20 @@
+---
+title: 04 - Diario de Bitácora de Caelus I
+fecha: 2025-01-12
+autor: Caelus
+Jugadores:
+- Elysia
+- Caelus
+- Toshi
+- Adoh
+---
+
 >[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-12
 >  - **Aventura:** Llegada a la Isla
 >  - **Autor:** Caelus
 >  - **Jugadores:** Elysia, Caelus, Toshi, Adoh
+
 ## Día 1 en la Isla de los Grifos
 ### Entrada 1: Puerto Soldado y la Introducción al Proyecto
  

@@ -12,6 +12,7 @@ Jugadores:
 
 >[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-02-09
+>  - **Aventura:** [[05 - Visita al Chamán de Nobone]]
 >  - **Autor:** Broldan
 >  - **Jugadores:** Adoh, Broldan, Ganjalf, Toshi, Rodalm
 

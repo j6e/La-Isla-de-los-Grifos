@@ -1,3 +1,15 @@
+---
+title: 07 - Diario de Bitácora de Caelus II
+fecha: 2025-01-19
+autor: Caelus
+Jugadores:
+- Elysia
+- Caelus
+- Adoh
+- Korik
+- Tyvar
+---
+
 >[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-19
 >  - **Aventura:** [[03 - Camino a Surlt]]

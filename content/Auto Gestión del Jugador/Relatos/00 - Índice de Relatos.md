@@ -13,3 +13,4 @@ title: 00 - Índice de Relatos
 - [[09 - Diario de Broldan I]]
 - [[10 - La Búsqueda de las Bayas Acuosas]]
 - [[11 - La Búsqueda del Druida]]
+- [[12 - Nahu-Api y los Oma-Kai]]

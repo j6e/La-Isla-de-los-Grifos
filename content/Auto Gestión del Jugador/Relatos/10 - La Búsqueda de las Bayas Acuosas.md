@@ -1,6 +1,6 @@
 ---
 title: 10 - La Búsqueda de las Bayas Acuosas
-fecha: 2025-01-05
+fecha: 2025-01-30
 autor: Broldan
 Jugadores:
   - Blueno

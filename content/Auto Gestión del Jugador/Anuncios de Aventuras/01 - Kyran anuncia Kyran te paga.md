@@ -7,6 +7,7 @@ Participantes:
   - Brodlan
   - Esteffan
   - Blueno
+  - Ganjalf
 ---
 
 >[!abstract] **Detalles de la aventura**
