@@ -3,3 +3,5 @@
 - [[03 - El Cazador]]
 - [[04 - Plegaria a la Barracuda]]
 - [[05 - Piel Marcada]]
+- [[06 - Plantas y Magia]]
+- [[07 - La Canción del Soldado]]
