@@ -16,6 +16,7 @@ La siguiente tabla indica el precio de un objeto mágico según su tipo.
 | Infrecuente | Permanente | 4 PR      |
 | Raro        | Consumible | 4 PR      |
 | Raro        | Permanente | 8 PR      |
+
 Además, al precio del objeto mágico se sumará el precio en oro de su objeto base. Este precio se podrá pagar con el oro que tenga el personaje o con PRs.
 
 Por ejemplo, un bastón infrecuente costaría 6PR  y 2SP. Mientras que una armadura de placas común costaría 2PR y 1500GP.
