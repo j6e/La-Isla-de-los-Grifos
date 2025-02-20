@@ -1,5 +1,5 @@
 ---
-title: 11 - Nahu-Api y los Oma-Kai
+title: 12 - Nahu-Api y los Oma-Kai
 fecha: 2025-02-20
 autor: Adoh
 Jugadores:
