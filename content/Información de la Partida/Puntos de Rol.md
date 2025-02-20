@@ -8,7 +8,7 @@ Los puntos de rol (o PRs) son una metamoneda que se otorga a los personajes de l
 ### Objetos Mágicos
 La siguiente tabla indica el precio de un objeto mágico según su tipo.
 
-| **Rareza**  | **Tipo**   | **Coste** |
+| **Rareza**  | **Tipo de Objeto**   | **Coste** |
 | ----------- | ---------- | --------- |
 | Común       | Consumible | 1 PR      |
 | Común       | Permanente | 2 PR      |
