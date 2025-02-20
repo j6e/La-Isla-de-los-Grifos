@@ -39,3 +39,11 @@ También supimos que Tsankth el Dios Pirata que vive en el norte secuestra a lo
 Las plumas de los grifos tiene propiedades mágicas, es un suicidio intentar quitárselas pero podemos tener suerte y encontrar alguna pluma caida.
 
 Para terminar Nahu-Api nos dió un fragmento de un texto que encontró hace tiempo, esta firmado por un tal “Loreb, aprendiz de hechicero.”
+
+Este texto resumía sobre las propiedades mágicas que tiene los frutos/raíces de la isla y cómo cada una de estas está relacionada con un tipo de escuela de magia:
+
+- Cerezas explosivas (Evocación): Están cerca de las montañas de fuego, hay que tener cuidado porque cuando maduran se caen y la zona se convierte en un campo de minas
+- Bayas acuosas (Conjuración): Por otras exploraciones se descubrió que en la zona norte del campamento de cazadores hay un pozo, en su interior crecen este tipo de frutos, pero hay una Naiade custodiando la zona, aunque se derrote al siguiente amanecer volverá a revivir. Además de eso conseguimos la receta para crear pociones Tonificantes usando 3 bayas acuosas. (Ventaja a Constitución por 10 minutos)
+- Raíces subterráneas (Abjuración): Se sabe que donde viven unos escarabajos de 3 patas suelen haber estas raíces. El lugar donde hemos encontrado a esos monstruos fue en la cueva que había cerca del campamento de bandidos que asediaba el camino hacia Surlt.
+
+Tras toda esta información nos despedimos de Nahu-Api y decidimos dirigirnos otra vez al Pozo para conseguir Bayas acuosas. Confirmamos que la Náyade revive por un ritual de ligadura y su presencia mágica es la que hace que las bayas acuosas puedan crecer. Tras un desafortunado combate conseguimos apaciguar a la Náyade y recoger frutos para preparar preparar las pociones.

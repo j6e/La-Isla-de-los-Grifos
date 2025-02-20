@@ -8,8 +8,8 @@ Aquí encontrarás información del [_West Marches_](West_Marches.md) de la **Is
 
 ![[portada_libro.png|300]]
 
-Para comenzar a jugar necesitas un personaje, para ello te recomiendo que leas los artículos situados bajo "Sesión 0", empezando por [[Creación de Personaje]].
+Para comenzar a jugar necesitas un personaje, para ello te recomiendo que leas los artículos situados bajo "Sesión 0", empezando por [[Creación de Personaje]] y continuando con el [[Cuestionario de Personaje]] y los [[Límites de Interpretación]]
 
-Luego puedes seguir leyendo en [[Cómo se Juega]] para ver como organizaremos las partidas.
+Luego puedes seguir leyendo en [[00 - Información de la Partida|Información de la Partida]] para toda la información relativa a la logística, el trasfondo o las reglas de la partida.
 
 Si ya estás jugando la partida, pásate por [[00 - Índice de Autogestión|Autogestión del Jugador]] donde encontrarás los relatos, aventuras, así como la lista de personajes que hay actualmente en la isla.
