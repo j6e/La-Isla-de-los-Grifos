@@ -10,9 +10,9 @@ El destino y el camino que los aventureros elijan determinará la duración y di
 
 | **Distancia** | **Distancia Max** | **Duración Máxima** | **Encuentros** |
 | ------------- | ----------------- | ------------------- | -------------- |
-| Corta         | 12 hex (72 km)    | 3 días              | 1+             |
-| Media         | 28 hex (168 km)   | 7 días              | 2+             |
-| Lraga         | 60 hex (1440km)   | 15 días             | 3+             |
+| Corta         | 12 hex (72 km)    | 3 días              | 2+             |
+| Media         | 28 hex (168 km)   | 7 días              | 3+             |
+| Lraga         | 60 hex (1440km)   | 15 días             | 4+             |
 
 **Dificultad del Viaje = 10 + Bono por Terreno + Bono por Clima**
 
@@ -24,7 +24,7 @@ Un viaje exitoso requiere de la cooperación de todos los miembros del grupo, pa
 ### Guía
 El guía es el encargado de que el grupo llegue a su destino sano y salvo. Para ello puede realizar cualquiera de las siguientes tiradas:
 - **Abrir Camino:** Te sientes como en casa en la espesura, llevando al grupo por las mejores rutas. Tirada: **Sabiduría (Supervivencia)**
-- **Trazar la Ruta:** Gracias a tu dominio de los mapas y tu gran sentido de la orientación sabes en todo momento donde os encontráis y hacia donde debéis ir. Tirada: **Cartographer's Tools**
+- **Trazar la Ruta:** Gracias a tu dominio de los mapas y tu gran sentido de la orientación sabes en todo momento donde os encontráis y hacia donde debéis ir. Tirada: **Cartographer's Tools** o **Navigatior's Tools**
 - **Forrajear:** Tu conocimiento del terreno te permite encontrar comida en árboles, arbustos o matorrales cerca del camino. Tirada: **Sabiduría (Naturaleza)**
 ### Pertrechador
 El Pertrechador se encarga de manejar los suministros del grupo. Con ellos mantiene al grupo bien alimentado y bien equipado para que puedan afrontar los retos que estén porvenir. Para ello puede realizar cualquiera de las siguientes tiradas:
@@ -51,7 +51,7 @@ El Guardián es el encargado de que todo miembro del grupo esté en las mejores 
 - **Escucha Activa:** Eres un espacio seguro para tus compañeros. Te cuentan sus preocupaciones, problemas y rifirrafes que tienen con otros miembros del grupo. Gracias a tu intervención los problemas no van a más y sois un grupo cohesionado. Tirada: **Sabiduría (Perspicacia)**
 
 ## Hacer Preparativos
-Una vez asignados los roles, cada jugador puede hacer un *preparativo* para el viaje. Las preparaciones son acciones especiales que realizan los aventureros el día de antes de un viaje. Además, todos los personajes gastan una media de 2SP por día de viaje en preparativos. Elije una de la lista o invéntate una nueva junto con tu DM.
+Una vez asignados los roles, cada jugador puede hacer un *preparativo* para el viaje. Las preparaciones son acciones especiales que realizan los aventureros el día de antes de un viaje. Además, todos los personajes gastan una media de **2SP** por día de viaje en preparativos. Elije una de la lista o invéntate una nueva junto con tu DM.
 
 ### Trazar el Rumbo
 Usando la información que tienes sobre el origen y el fin del viaje, planeas la mejor ruta posible. Haz una tirada de **Inteligencia (Cartographer's Tools)**, en caso de éxito disminuye la *Dificultad del Viaje* en 3, si fallas auméntala en 2.
@@ -71,8 +71,8 @@ Decides que la mejor manera de prepararte para el camino que tienes por delante 
 ### Reunir al Grupo
 Hablas o actúas frente a los miembros de tu grupo, preparándolos mental y emocionalmente para el largo camino que tienen por delante. Elige uno de los siguientes enfoques y haz una tirada de **Carisma (Interpretación )** o **Sabiduría (Perspicacia)**. Si tienes éxito, tu grupo gana uno de los siguientes beneficios:
 - **Motivador:** Cada miembro del grupo comienza el Viaje con Inspiración.
-- **Estimulante:** Los miembros del grupo obtienen un +2 en pruebas de habilidad hasta el final del Viaje.
-- **Solemne:** Los miembros del grupo obtienen un +2 en tiradas de salvación hasta el final del Viaje.
+- **Estimulante:** Los miembros del grupo obtienen un +1 en pruebas de habilidad hasta el final del Viaje.
+- **Solemne:** Los miembros del grupo obtienen un +1 en tiradas de salvación hasta el final del Viaje.
 
 ### Conseguir Suministros Extra
 Dedicas tiempo a hacer inventario de los suministros del grupo y a adquirir más provisiones y equipo para preparar al grupo ante los desafíos que se avecinan. Para ello haz una tirada de **Inteligencia (Investigación)** para localizar y comprar los suministros necesarios. El DM determinará el precio, si lo hay. Alternativamente, puedes optar por hacer una tirada de **Sabiduría (Supervivencia)** para recolectar suministros útiles del entorno. Como otra opción, puedes intentar robar los suministros. Haz una tirada de **Destreza (Juego de Manos o Sigilo)**. Independientemente del enfoque elegido, si tienes éxito, disminuye la *Dificultad del Viaje* en 2.
@@ -81,7 +81,7 @@ Dedicas tiempo a hacer inventario de los suministros del grupo y a adquirir más
 Examinando los registros disponibles en tu punto de origen, buscas mapas relevantes e información específica sobre el Viaje que estás a punto de emprender. Haz una tirada de **Inteligencia (Historia)**. Si tienes éxito, cada miembro del grupo puede repetir una tirada de habilidad fallida una vez antes de que termine el Viaje.
 
 ### Investigar Rumores
-Preguntas a los habitantes locales o a viajeros en busca de rumores sobre el Viaje que vas a realizar. Haz una tirada de **Sabiduría (Perspicacia)** o **Carisma (Persuasión o Mentir o Intimidar)**. Si tienes éxito, disminuye la *Dificultad del Viaje* en 2. Si fallas, la aumentas en 1
+Preguntas a los habitantes locales o a viajeros en busca de rumores sobre el Viaje que vas a realizar. Haz una tirada de **Sabiduría (Perspicacia)** o **Carisma (Persuasión o Mentir o Intimidar)**. Si tienes éxito, disminuye la *Dificultad del Viaje* en 2. Si fallas, la aumentas en 1.
 
 ### Estudiar el Clima
 Observas el estado de la naturaleza a tu alrededor e intentas predecir el clima, permitiéndote prepararte adecuadamente. Haz una tirada de **Inteligencia o Sabiduría (Naturaleza)**. Si tienes éxito, reduce la *Dificultad del Viaje* en 2. Si fallas, tu previsión climática es errónea aumentando la *Dificultad del Viaje* en 1.
@@ -113,6 +113,7 @@ Existen múltiples formas en las que puede terminar un viaje, desde el éxito al
 Si el grupo completa todos los encuentros, llega a su destino con éxito. Para determinar el estado en el que llega cada miembro del grupo, cada uno debe hacer una **tirada de salvación de Constitución**, la *CD* será la *Dificultad del Viaje* menos 1 por cada éxito conseguidos en la **Tirada de Viaje Grupal**. Los personajes que fallen ganarán un nivel de exhausto. Los que superen recuperarán un número de dados de golpe igual a la mitad de su nivel.
 
 **CD CON = *Dificultad del Viaje* - Nº Éxitos de Tirada de Viaje Grupal**
+
 ### Viaje Abortado
 Si el viaje se está torciendo, el grupo puede decidir abandonar el viaje entre encuentros. Para determinar el estado en el que llega cada miembro del grupo, cada uno debe hacer una **tirada de salvación de Constitución**, la *CD* será la *Dificultad del Viaje* menos 1 por cada éxito conseguidos en la **Tirada de Viaje Grupal**. Los personajes que superen no recibirán penalización alguna, los que fallen ganarán un nivel de exhausto y perderán la mitad de sus dados de golpe restantes (mínimo uno).
 

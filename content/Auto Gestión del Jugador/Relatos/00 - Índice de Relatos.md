@@ -14,3 +14,5 @@ title: 00 - Índice de Relatos
 - [[10 - La Búsqueda de las Bayas Acuosas]]
 - [[11 - La Búsqueda del Druida]]
 - [[12 - Nahu-Api y los Oma-Kai]]
+- [[13 - Tercera Expedición]]
+- [[14 - Viaje al Poblado Craneo de Orco]]

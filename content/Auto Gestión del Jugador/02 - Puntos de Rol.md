@@ -14,8 +14,8 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Esteffan      |               |              |                 |
 | Cirrus        |               |              |                 |
 | Toshi         |               |              |                 |
-| Elysia        | 3             | 1            | 2               |
-| Caelus        | 2             |              | 2               |
+| Elysia        | 4             | 1            | 3               |
+| Caelus        | 3             |              | 3               |
 | Adoh          | 2             |              | 2               |
 | Rodalm        | 2             |              | 2               |
 
