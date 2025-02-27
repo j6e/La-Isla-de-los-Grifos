@@ -10,7 +10,7 @@ Participantes:
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-03-02
 >  - **Autor:** Rodalm
->  - **Participantes:** Rodalm, Adoh
+>  - **Participantes:** Rodalm, Adoh, Ganjalf, Kyran, Broldan
 
 Habiéndose despejado el bloqueo, y con un grupo de aventureros encargándose de los bandidos que azotaban la zona, el camino de las ciudadelas ya no está cerrado.
 
