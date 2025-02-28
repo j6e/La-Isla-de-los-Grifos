@@ -16,3 +16,5 @@ title: 00 - Índice de Relatos
 - [[12 - Nahu-Api y los Oma-Kai]]
 - [[13 - Tercera Expedición]]
 - [[14 - Viaje al Poblado Craneo de Orco]]
+- [[15 - En Busca de Raíces]]
+- [[16 - Cuarta Expedición]]
