@@ -4,6 +4,7 @@ title: 00 - Índice de Aventuras
 
 ## Aventuras pendientes
 - [[06 - Rumbo a Surlt]]
+- [[08 - Reyna y el Cuerno de Orlanth]]
 
 
 ## Aventuras pasadas
