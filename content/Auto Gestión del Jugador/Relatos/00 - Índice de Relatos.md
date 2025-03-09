@@ -18,3 +18,4 @@ title: 00 - Índice de Relatos
 - [[14 - Viaje al Poblado Craneo de Orco]]
 - [[15 - En Busca de Raíces]]
 - [[16 - Cuarta Expedición]]
+- [[17 - De Camino a Surlt (otra vez)]]
