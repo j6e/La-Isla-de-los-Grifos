@@ -19,3 +19,4 @@ title: 00 - Índice de Relatos
 - [[15 - En Busca de Raíces]]
 - [[16 - Cuarta Expedición]]
 - [[17 - De Camino a Surlt (otra vez)]]
+- [[18 - Diario de Kyran I]]
