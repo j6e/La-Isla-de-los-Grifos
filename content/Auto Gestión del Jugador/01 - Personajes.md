@@ -7,7 +7,7 @@ Aquí encontraréis una lista de los personajes que hay actualmente en la Isla.
 | **Personaje** | **Raza** | **Niveles** | **Partidas Jugadas** |
 | ------------- | -------- | ----------- | -------------------- |
 | Broldan       | Humano   | Guerrero 4  | 6                    |
-| Ganjalf       | Gnomo    | Druida 5    | 6                    |
+| Ganjalf       | Gnomo    | Druida 4    | 6                    |
 | Kyran         | Goliath  | Bardo 4     | 5                    |
 | Blueno        | Tiefling | Pícaro 3    | 4                    |
 | Tyvar         | Elfo     | Bárbaro 3   | 3                    |
