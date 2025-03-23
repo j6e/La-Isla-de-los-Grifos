@@ -12,7 +12,7 @@ Jugadores:
 
 >[!abstract]- **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-02-20
->  - **Aventura:** [[08 - Reyna y el Cuerno de Orlanth]]
+>  - **Aventura:** [[06 - Rumbo a Surlt]]
 >  - **Autor:** Broldan
 >  - **Jugadores:** Broldan, Ganjalf, Adoh, Rodalm, Kyran
 

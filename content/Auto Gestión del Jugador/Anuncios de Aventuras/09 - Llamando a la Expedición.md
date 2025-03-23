@@ -5,15 +5,15 @@ autor: Caelus
 Participantes:
   - Caelus
   - Elysia
-  -
-  -
-  -
+  - Blueno
+  - Adoh
+  - Toshi
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-03-23
 >  - **Autor:** Caelus
->  - **Participantes:** Caelus, Elysia
+>  - **Participantes:** Caelus, Elysia, Blueno, Adoh, Toshi
 
 
 La senda del conocimiento está pavimentada de incertidumbre, y sin embargo, hoy encontramos un punto de claridad en nuestro horizonte. La noticia del desmantelamiento del campamento bandido ya se propaga por Puerto Soldado, y con ello, la brisa de un nuevo movimiento en los caminos. Mercaderes y viajeros que antes temían por sus vidas comenzarán a recorrer rutas que hasta hace poco eran territorio de salteadores y asesinos. Es la oportunidad que esperábamos.
