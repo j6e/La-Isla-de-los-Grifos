@@ -3,8 +3,7 @@ title: 00 - Índice de Aventuras
 ---
 
 ## Aventuras pendientes
-- [[09 - Llamando a la Expedición]]
-
+- [[10 - La Torre Yelmalita]]
 
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
@@ -15,3 +14,4 @@ title: 00 - Índice de Aventuras
 - [[04 - Por la Luz de Yelmalio]]
 - [[06 - Rumbo a Surlt]]
 - [[08 - Reyna y el Cuerno de Orlanth]]
+- [[09 - Llamando a la Expedición]]
