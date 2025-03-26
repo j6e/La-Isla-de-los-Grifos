@@ -4,6 +4,7 @@ title: 00 - Índice de Aventuras
 
 ## Aventuras pendientes
 - [[10 - La Torre Yelmalita]]
+- [[11 - Se Buscan Aventureros]]
 
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
