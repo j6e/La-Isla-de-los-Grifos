@@ -1,5 +1,5 @@
 ---
-title: 22 - 
+title: 22 - La Bifurcación entre Surlt y Nidik
 fecha: 2025-03-25
 autor: Elysia
 Jugadores:
