@@ -22,3 +22,6 @@ title: 00 - Índice de Relatos
 - [[18 - Diario de Kyran I]]
 - [[19 - Despejando el Bloqueo Comercial]]
 - [[20 - Conversación de Elysia y Broldan]]
+- [[21 - Camino a Sulrt y la Torre de Yelmalio]]
+- [[22 - La Bifurcación entre Surlt y Nidik]]
+- [[23 - En Busca de las Raíces Subterraneas]]

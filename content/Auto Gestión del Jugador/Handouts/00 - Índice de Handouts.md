@@ -5,3 +5,6 @@
 - [[05 - Piel Marcada]]
 - [[06 - Plantas y Magia]]
 - [[07 - La Canción del Soldado]]
+- [[08 - Historia de las Ciudadelas]]
+- [[09 - Notas de Excavación]]
+- [[10 - Nota sobre las Puertas]]
