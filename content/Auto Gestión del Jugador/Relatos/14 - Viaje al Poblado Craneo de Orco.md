@@ -1,5 +1,5 @@
 ---
-title: 13 - Tercera Expedición
+title: 14 - Viaje al Poblado Craneo de Orco
 fecha: 2025-02-21
 autor: Elysia
 Jugadores:
