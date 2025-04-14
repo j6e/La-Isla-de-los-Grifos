@@ -1,5 +1,5 @@
 ---
-title: 23 -
+title: 23 - En Busca de las Raíces Subterraneas
 fecha: 2025-04-06
 autor: Broldan
 Jugadores:

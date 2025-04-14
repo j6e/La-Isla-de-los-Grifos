@@ -22,8 +22,6 @@ Cuando Blueno entrevió, plumas y rastros de lo que parecía el nido de un grifo
 
 Lo que decían los campesinos era cierto, era un animal imponente. Sólo con la fuerza de su pico podría abrir cráneos sin dificultad y medía varios metros de alto. Me tomó con su garra y me llevó a unos metros más allá. Notaba como la fuerza de sus uñas trataban de clavarse en mi armadura. De hecho, de no ser por esta, quizás hubiera atravesado mi piel. 
 
-![[Pasted image 20250414191211.png]]
-
 Broldan y Caelus usaron sus artes para atacarle y el ave, al recibir daño me dejó caer, desprendiendo mis alas para posarme cuidadosamente entre los miembros del grupo. El ejemplar de grifo –que al parecer era más joven de lo que nosotros pensábamos inicialmente-, fue batido finalmente por Blueno. Y, al tomar sus plumas, descubrimos que estas eran mágicas. 
 
 Herida ante la embestida de ese animal, decidimos tomar un descanso en mitad del camino para reponer fuerzas. 
@@ -31,11 +29,9 @@ Herida ante la embestida de ese animal, decidimos tomar un descanso en mitad del
 Tras ello, en nuestro avance, vimos como la Torre de El Zar brillaba como un faro. Y es que, arriba del todo había un reloj solar dorado que refulgía desde la distancia. En dicho reloj había una frase que decía así: 
 
 >"Regocíjate, iluminado por Yelmalio, 
-pues recibirás su ayuda en momentos de necesidad. 
-Enorgullécete, portador del fuego purificador, 
-pues recibirás su ayuda cuando más lo necesites". 
-
-![[Pasted image 20250414191224.png]]
+>pues recibirás su ayuda en momentos de necesidad. 
+>Enorgullécete, portador del fuego purificador, 
+>pues recibirás su ayuda cuando más lo necesites". 
 
 Varios de nuestra comitiva, fueron los que inicialmente habían descubierto la torre y, nos comunicaron la llave maestra que activaba su poder. Acercamos una llama sagrada al reloj y, en ese momento, notamos cómo nos bendecía Yelmalio. Su paz, su calidez y su poder. 
 
@@ -56,7 +52,5 @@ Abandonamos el puente y seguimos avanzando entre las cavernas serpenteantes que 
 Allí, varios orcos habían alzado su campamento y habían llenado todo de barriles explosivos. Blueno se hizo de un ardid mágico para disfrazarse de uno de ellos e infiltrarse en aquel campamento de al menos treinta orcos. 
 
 En ese momento, atacamos por sorpresa pero entre ellos se encontraba un poderoso hechicero que nos lanzó una bola de fuego que nos dejó muy malheridos. Con el fulgor de la batalla, arremetimos con todo lo que teníamos y varios de esos orcos fueron lanzados a los agujeros que rodeaban las cavernas. El combate era muy difícil, ya que, una sola chispa hubiera detonado los barriles de pólvora que tenían los orcos en las esquinas ocultas de aquel lugar para abrir más agujeros en la roca. 
-
-![[Pasted image 20250414191235.png]]
 
 Les dimos el fin que se merecían pero, con la desazón en mi corazón, tuvimos que volver a la civilización. Habíamos encontrado a unos enemigos formidables en aquel lugar pero yo no iba a parar hasta devolver la divinidad a la Torre de El Zar. Pronto sus sótanos volverían a encontrar el antiguo esplendor de su fundación.
