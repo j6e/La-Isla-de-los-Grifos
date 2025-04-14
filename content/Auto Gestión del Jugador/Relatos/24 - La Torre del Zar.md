@@ -29,8 +29,11 @@ Herida ante la embestida de ese animal, decidimos tomar un descanso en mitad del
 Tras ello, en nuestro avance, vimos como la Torre de El Zar brillaba como un faro. Y es que, arriba del todo había un reloj solar dorado que refulgía desde la distancia. En dicho reloj había una frase que decía así: 
 
 >"Regocíjate, iluminado por Yelmalio, 
+>
 >pues recibirás su ayuda en momentos de necesidad. 
+>
 >Enorgullécete, portador del fuego purificador, 
+>
 >pues recibirás su ayuda cuando más lo necesites". 
 
 Varios de nuestra comitiva, fueron los que inicialmente habían descubierto la torre y, nos comunicaron la llave maestra que activaba su poder. Acercamos una llama sagrada al reloj y, en ese momento, notamos cómo nos bendecía Yelmalio. Su paz, su calidez y su poder. 
