@@ -4,7 +4,7 @@ title: 00 - Índice de Aventuras
 
 ## Aventuras pendientes
 
-
+- [[12 - Las arañas]]
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
 - [[02 - Por las vacas y la cerveza]]
