@@ -1,7 +1,7 @@
 ---
 title: 08 - Reyna y el Cuerno de Orlanth
 fecha: 2025-03-01
-autor: 
+autor: Kyran
 Participantes:
 ---
 **Kyran anuncia Kyran te paga 🎸🎵 **
