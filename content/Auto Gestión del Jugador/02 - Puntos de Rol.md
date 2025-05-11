@@ -19,5 +19,6 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Adoh          | 4             |              | 4               |
 | Rodalm        | 2             |              | 2               |
 | Héctor        |               |              |                 |
+| Gorruk        |               |              |                 |
 
 [[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.
