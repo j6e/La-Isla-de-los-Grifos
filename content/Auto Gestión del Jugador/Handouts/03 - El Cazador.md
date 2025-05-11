@@ -41,7 +41,7 @@ Solo entonces podré buscar la soledad y el descanso eterno...
 ---
 
 >[!Info] **Registro de Aventura**
->  Este objeto fue obtenido por Cirrus, Tyvar, Korik y Esteffan de los restos de un Pirata
+>  Este objeto fue obtenido por Cirrus, Tyvar, Korik y Steffan de los restos de un Pirata
 
 ## El Cazador II
 

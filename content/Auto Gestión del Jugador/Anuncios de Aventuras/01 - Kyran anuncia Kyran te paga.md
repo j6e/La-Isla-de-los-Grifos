@@ -5,7 +5,7 @@ autor: Kyran
 Participantes:
   - Cirrus
   - Brodlan
-  - Esteffan
+  - Steffan
   - Blueno
   - Ganjalf
 ---
@@ -13,7 +13,7 @@ Participantes:
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-01-30 17h
 >  - **Autor:**  Kyran
->  - **Participantes:** Cirrus, Ganjalf, Broldan, Esteffan, Blueno
+>  - **Participantes:** Cirrus, Ganjalf, Broldan, Steffan, Blueno
 
 **Kyran anuncia Kyran te paga 🎸🎵**
 

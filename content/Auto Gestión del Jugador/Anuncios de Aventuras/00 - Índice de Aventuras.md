@@ -3,8 +3,8 @@ title: 00 - Índice de Aventuras
 ---
 
 ## Aventuras pendientes
-
-- [[12 - Las arañas]]
+- [[13 - LLamado de la Luz Eterna]]
+- [[14 - Minas Ocultas]]
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
 - [[02 - Por las vacas y la cerveza]]
@@ -17,3 +17,4 @@ title: 00 - Índice de Aventuras
 - [[09 - Llamando a la Expedición]]
 - [[10 - La Torre Yelmalita]]
 - [[11 - Se Buscan Aventureros]]
+- [[12 - Las arañas]]

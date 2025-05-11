@@ -6,14 +6,14 @@ Jugadores:
   - Blueno
   - Broldan
   - Cirrus
-  - Esteffan
+  - Steffan
 ---
 
 >[!abstract] **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-01-30
 >  - **Aventura:** [[01 - Kyran anuncia Kyran te paga]]
 >  - **Autor:** Broldan
->  - **Jugadores:**  Broldan, Cirrus, Blueno, Esteffan
+>  - **Jugadores:**  Broldan, Cirrus, Blueno, Steffan
 
 Nos levantamos temprano para ir a la casa de la sanación.
 
@@ -31,6 +31,6 @@ Tras el combate, investigamos el pozo. Blueno, el tiefling del grupo, se adelant
 
 Un elemental de agua se alzaba ante nosotros. Saqué mi espada de luz para iluminar la cueva y combatir a la criatura. Golpeamos sin descanso, pero nuestros ataques apenas parecían hacerle daño. Entonces, Blueno lanzó un rayo de fuego que pareció afectarle en demasía. Aprovechamos ese momento de debilidad para acabar con él.
 
-Finalmente, encontramos varias bayas acuosas, pero algo extraño sucedía. Esteffan y Cirrus, con su agudo oído, escucharon aullidos espectrales provenientes de la oscuridad de la cueva. Movido por la curiosidad, me acerqué a investigar y, para mi mala suerte, dos fantasmas con cara de pocos amigos me vieron. Recordé que, para eliminarlos, debíamos destruir ciertas piedras encantadas. Corrimos Esteffan y yo hasta un menhir con runas al fondo de la cueva y Esteffan, tras analizarlo, descubrió que había que borrar los grabados mágicos para evitar que los espíritus reaparecieran.  Mientras los rayos de fuego de Blueno y algunos mamporros que propinábamos Cerrus y yo mismo, Esteffan consiguió borrar los grabados. Uno de los espectros le impacto haciéndole vomitar. Al final conseguimos reducirlos aunque acabamos exhaustos.
+Finalmente, encontramos varias bayas acuosas, pero algo extraño sucedía. Steffan y Cirrus, con su agudo oído, escucharon aullidos espectrales provenientes de la oscuridad de la cueva. Movido por la curiosidad, me acerqué a investigar y, para mi mala suerte, dos fantasmas con cara de pocos amigos me vieron. Recordé que, para eliminarlos, debíamos destruir ciertas piedras encantadas. Corrimos Steffan y yo hasta un menhir con runas al fondo de la cueva y Steffan, tras analizarlo, descubrió que había que borrar los grabados mágicos para evitar que los espíritus reaparecieran.  Mientras los rayos de fuego de Blueno y algunos mamporros que propinábamos Cerrus y yo mismo, Steffan consiguió borrar los grabados. Uno de los espectros le impacto haciéndole vomitar. Al final conseguimos reducirlos aunque acabamos exhaustos.
 
 Entre los restos de la cueva encontramos varios objetos: una armadura de cuero tachonado, una varita de proyectiles mágicos y una poción de curación media. Con nuestra misión cumplida, emprendimos el regreso a Puerto Soldado. Gracias a las bayas acuosas, la Casa de la Sanación pudo preparar remedios y pociones, asegurando que tanto Kyran como Majette pronto recuperarían la normalidad.

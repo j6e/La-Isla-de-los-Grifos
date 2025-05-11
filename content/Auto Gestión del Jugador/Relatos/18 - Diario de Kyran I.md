@@ -5,7 +5,7 @@ autor: Kyran
 Jugadores:
   - Kyran
   - Blueno
-  - Esteffan
+  - Steffan
   - Ganjalf
 ---
 
@@ -13,7 +13,7 @@ Jugadores:
 >  - **Fecha de la Partida:** 2025-03-09
 >  - **Aventura:** [[08 - Reyna y el Cuerno de Orlanth]]
 >  - **Autor:**  Kyran
->  - **Jugadores:** Kyran, Blueno, Ganjalf, Esteffan
+>  - **Jugadores:** Kyran, Blueno, Ganjalf, Steffan
 
 
 ### **De cómo me inspiré para mi nuevo hit “Esa Reyna” **

@@ -5,7 +5,7 @@ autor: Tyvar
 Jugadores:
   - Tyvar
   - Cirrus
-  - Esteffan
+  - Steffan
   - Korik
 ---
 
@@ -13,7 +13,7 @@ Jugadores:
 >  - **Fecha de la Partida:** 2025-01-05
 >  - **Aventura:** Llegada a la Isla
 >  - **Autor:** Tyvar
->  - **Jugadores:** Tyvar, Cirrus, Esteffan, Korik
+>  - **Jugadores:** Tyvar, Cirrus, Steffan, Korik
 
 Tyvar no pudo pegar ojo en toda la noche. Un elfo del bosque, de la tribu de los Tholod, durmiendo en la taberna de una ciudad humana... No se lo podría haber imaginado escasas semanas atrás, cuando dormía bajo la luz de las estrellas que se filtraban por las copas de los árboles.
 

@@ -8,3 +8,4 @@
 - [[08 - Historia de las Ciudadelas]]
 - [[09 - Notas de Excavación]]
 - [[10 - Nota sobre las Puertas]]
+- [[11 - Nota del Nigromante]]

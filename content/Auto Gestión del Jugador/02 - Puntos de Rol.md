@@ -11,7 +11,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Blueno        |               |              |                 |
 | Tyvar         | 4             |              | 4               |
 | Korik         |               |              |                 |
-| Esteffan      |               |              |                 |
+| Steffan       | 1             |              |                 |
 | Cirrus        |               |              |                 |
 | Toshi         |               |              |                 |
 | Elysia        | 9             | 5            | 4               |
