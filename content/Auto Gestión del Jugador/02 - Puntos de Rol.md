@@ -5,7 +5,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 
 | **Personaje** | **Asignados** | **Gastados** | **Disponibles** |
 | ------------- | ------------- | ------------ | --------------- |
-| Broldan       | 8             | 4            | 4               |
+| Broldan       | 9             | 4            | 5               |
 | Ganjalf       | 3             |              | 3               |
 | Kyran         | 4             |              | 4               |
 | Blueno        |               |              |                 |

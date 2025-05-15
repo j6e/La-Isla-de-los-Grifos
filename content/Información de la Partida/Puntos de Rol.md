@@ -21,6 +21,9 @@ Además, al precio del objeto mágico se sumará el precio en oro de su objeto b
 
 Por ejemplo, un bastón infrecuente costaría 6PR  y 2SP. Mientras que una armadura de placas común costaría 2PR y 1500GP.
 
+## Bastiones
+Los personajes que hayan alcanzado nivel 5 pueden gastar 2PR y obtener un [[Bastiones|bastión]]. 
+
 ### Reputación con Facciones
 
 >[!Warning]+ **Sección Provisional**
