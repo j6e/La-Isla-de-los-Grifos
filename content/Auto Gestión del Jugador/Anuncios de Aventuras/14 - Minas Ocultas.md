@@ -5,8 +5,8 @@ autor: Steffan
 Participantes:
   - Steffan
   - Hector
-  - Brodlan
   - Rodalm
+  - Broldan
 ---
 
 >[!abstract] **Detalles de la aventura**

@@ -4,10 +4,10 @@ fecha: 2025-01-30
 autor: Kyran
 Participantes:
   - Cirrus
-  - Brodlan
   - Steffan
   - Blueno
   - Ganjalf
+  - Broldan
 ---
 
 >[!abstract] **Detalles de la aventura**

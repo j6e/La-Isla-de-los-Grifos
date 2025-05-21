@@ -7,7 +7,7 @@ Participantes:
   - Kyran
   - Elysia
   - Caelus
-  - Brodlan
+  - Broldan
 ---
 
 >[!abstract] **Detalles de la aventura**
