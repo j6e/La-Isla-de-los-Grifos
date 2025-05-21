@@ -5,12 +5,14 @@ autor: Steffan
 Participantes:
   - Steffan
   - Hector
+  - Brodlan
+  - Rodalm
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-05-16
 >  - **Autor:**  Steffan
->  - **Participantes:**  Steffan, Hector
+>  - **Participantes:**  Steffan, Hector, Broldan, Rodalm
 
 Steffan von Hohenheim und Strang, exaltado príncipe mercader y flamante propietario de la ruta comercial de la Isla de los Grifos con la prestigiosa ciudad de Ambilof, busca:
 
