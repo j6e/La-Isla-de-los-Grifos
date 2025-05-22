@@ -5,6 +5,8 @@ autor: Rodalm
 Participantes:
   - Rodalm
   - Adoh
+  - Ganjalf
+  - Broldan
 ---
 
 >[!abstract] **Detalles de la aventura**

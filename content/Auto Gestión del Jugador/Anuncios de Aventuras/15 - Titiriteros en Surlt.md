@@ -3,15 +3,17 @@ title: 15 - Titiriteros en Surlt
 fecha: 2025-05-21
 autor: Kyran
 Participantes:
-  - Tyvar
   - Kyran
   - Cirrus
+  - Blueno
+  - Ganjalf
+  - Adoh
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-05-22
 >  - **Autor:**  Kyran
->  - **Participantes:** Kyran, Cirrus, Tyvar 
+>  - **Participantes:** Adoh, Cirrus, Tyvar, Blueno, Ganjalf
 
 ## Kyran anuncia Kyran te paga🎸🎵 
 

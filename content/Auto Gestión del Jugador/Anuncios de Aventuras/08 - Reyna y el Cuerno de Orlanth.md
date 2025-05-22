@@ -3,12 +3,16 @@ title: 08 - Reyna y el Cuerno de Orlanth
 fecha: 2025-03-01
 autor: Kyran
 Participantes:
+  - Kyran
+  - Blueno
+  - Ganjalf
+  - Steffan
 ---
 **Kyran anuncia Kyran te paga 🎸🎵 **
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-03-09
 >  - **Autor:**  Kyran
->  - **Participantes:** Kyran
+>  - **Participantes:** Kyran, Blueno, Ganjalf, Steffan
 
 
 NENA!!!! Kyran necesita TU ayuda para ayudar a nuestra amiga Reyna (y reina y reina y reina) a recuperar su tripulación y su cuerno de Orlanth que robaron unos piratas. 😔😔 

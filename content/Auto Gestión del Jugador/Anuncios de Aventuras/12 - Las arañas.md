@@ -5,12 +5,16 @@ autor: Adoh
 Participantes:
   - Adoh
   - Toshi
+  - Broldan
+  - Ganjalf
+  - Kyran
+  - Gorruk
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-05-11
 >  - **Autor:**  Adoh
->  - **Participantes:** Adoh, Toshi
+>  - **Participantes:** Adoh, Toshi, Broldan, Ganjalf, Kyran, Gorruk
 
 Hola otra vez compañeros. Soy Adoh y creo que deberíamos encargarnos de las arañas.
 

@@ -4,12 +4,16 @@ fecha: 2025-03-24
 autor: Elysia
 Participantes:
   - Elysia
+  - Adoh
+  - Caelus
+  - Broldan
+  - Blueno
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-04-06
 >  - **Autor:**  Elysia
->  - **Participantes:** Elysia, 
+>  - **Participantes:** Elysia, Adoh, Caelus, Broldan, Blueno
 
 Se dice que hay una torre la cual los años han ajado, donde en la cúspide se encuentra el beneplácito de Yelmalio, bañado por el sol del mediodía. Pero, en la oscuridad mora un sótano, oculto y provisto de secretos. ¿Qué será lo que morará en sus entrañas?
 

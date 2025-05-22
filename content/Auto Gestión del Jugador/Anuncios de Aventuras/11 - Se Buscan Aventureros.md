@@ -3,12 +3,17 @@ title: 11 - Se Buscan Aventureros
 fecha: 2025-04-02
 autor: Ganjalf
 Participantes:
+  - Broldan
+  - Blueno
+  - Cirrus
+  - Ganjalf
+  - Steffan
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-04-02
 >  - **Autor:**  Ganjalf
->  - **Participantes:** Ganjalf
+>  - **Participantes:** Ganjalf, Blueno, Cirrus, Broldan, Steffan
 
 ¡SE BUSCAN AVENTUREROS!
 
