@@ -13,7 +13,7 @@ Participantes:
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-05-22
 >  - **Autor:**  Kyran
->  - **Participantes:** Adoh, Cirrus, Tyvar, Blueno, Ganjalf
+>  - **Participantes:** Adoh, Cirrus, Blueno, Ganjalf, Kyran
 
 ## Kyran anuncia Kyran te paga🎸🎵 
 

@@ -5,12 +5,16 @@ autor: Elysia
 Participantes:
   - Elysia
   - Caelus
+  - Rodalm
+  - Ganjalf
+  - Kyran
+  - Hector
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-05-25
 >  - **Autor:**  Elysia
->  - **Participantes:** Elysia, Caelus 
+>  - **Participantes:** Elysia, Caelus, Rodalm, Hector, Ganjalf y Kyran
 
 ## **LLAMADO DE LA LUZ ETERNA**
 

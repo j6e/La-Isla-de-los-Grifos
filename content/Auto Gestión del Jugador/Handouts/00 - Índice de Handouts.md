@@ -9,3 +9,5 @@
 - [[09 - Notas de Excavación]]
 - [[10 - Nota sobre las Puertas]]
 - [[11 - Nota del Nigromante]]
+- [[12 - Las Once Cuerdas del Titiritero]]
+- [[13- Encargo contra Eucleia]]
