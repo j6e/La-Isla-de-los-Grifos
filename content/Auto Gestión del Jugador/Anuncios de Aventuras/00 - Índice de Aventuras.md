@@ -3,8 +3,9 @@ title: 00 - Índice de Aventuras
 ---
 
 ## Aventuras pendientes
-- [[13 - LLamado de la Luz Eterna]]
-- [[14 - Minas Ocultas]]
+- [[17 - Dríada Desatada]]
+- [[18 - Llamado a la Acción]]
+
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
 - [[02 - Por las vacas y la cerveza]]
@@ -18,3 +19,7 @@ title: 00 - Índice de Aventuras
 - [[10 - La Torre Yelmalita]]
 - [[11 - Se Buscan Aventureros]]
 - [[12 - Las arañas]]
+- [[13 - LLamado de la Luz Eterna]]
+- [[14 - Minas Ocultas]]
+- [[15 - Titiriteros en Surlt]]
+- [[16 - Tras la Mano Ardiente]]
