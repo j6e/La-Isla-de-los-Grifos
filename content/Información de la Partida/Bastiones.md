@@ -1,3 +1,6 @@
+>[!Warning]+ **Sección Provisional**
+>  Esta sección es provisional y puede que cambie y se amplie en el futuro
+
 Los personajes pueden [[Puntos de Rol#Bastiones|gastar puntos de rol para conseguir un bastión]] que les pertenezca: casas, cuevas, almacenes, bases de operaciones, tiendas, bibliotecas, etc... El bastión proporciona la posibilidad de realizar todo tipo de actividades no disponibles normalmente como fabricar objetos mágicos, llevar a cabo investigaciones, cultivar plantas...
 
 Poseer un bastión en Puerto Soldado no tiene coste adicional. En el resto de ciudadelas requiere un permiso y para poseerlo en la espesura de la isla hace falta encontrar un lugar indicado para ese propósito (como una cueva).

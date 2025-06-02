@@ -4,12 +4,14 @@ fecha: 2025-05-28
 autor: Ganjalf
 Participantes:
   - Ganjalf
+  - Broldan
+  - Adoh
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-05-28
 >  - **Autor:**  Ganjalf
->  - **Participantes:** Ganjalf
+>  - **Participantes:** Ganjalf, Broldan, Adoh
 
 
 **Por orden de Ganjalf, de poca estatura y de menos paciencia…**

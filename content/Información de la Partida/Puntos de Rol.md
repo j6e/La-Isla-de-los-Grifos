@@ -22,12 +22,15 @@ Además, al precio del objeto mágico se sumará el precio en oro de su objeto b
 Por ejemplo, un bastón infrecuente costaría 6PR  y 2SP. Mientras que una armadura de placas común costaría 2PR y 1500GP.
 
 ## Bastiones
+>[!Warning]+ **Sección Provisional**
+>  Esta sección es provisional y puede que cambie y se amplíe en el futuro
+
 Los personajes que hayan alcanzado nivel 5 pueden gastar 2PR y obtener un [[Bastiones|bastión]]. 
 
 ### Reputación con Facciones
 
 >[!Warning]+ **Sección Provisional**
->  Esta sección es provisional y puede que cambie y se amplie en el futuro
+>  Esta sección es provisional y puede que cambie y se amplíe en el futuro
 
 Existen 5 facciones principales en la Isla de los Grifos: Puerto Soldado, Surlt, Nidik, Ockless y los Votankis. Los grados de reputación con cada facción son:
 - **Indiferente**
