@@ -31,3 +31,4 @@ title: 00 - Índice de Relatos
 - [[27 - Nidik, la ciudadela civilizada]]
 - [[28 - Salamandras y Tumbas]]
 - [[29 - Misiva Paterna]]
+- [[30 - Quita Expedición]]
