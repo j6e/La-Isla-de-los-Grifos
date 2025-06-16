@@ -4,16 +4,16 @@ fecha: 2025-06-15
 autor: Caelus
 Participantes:
   - Caelus
-  -
-  -
-  -
-  -
+  - Adoh
+  - Broldan
+  - Hector
+  - Elysia
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-06-15
 >  - **Autor:**  Caelus
->  - **Participantes:**  Caelus
+>  - **Participantes:**  Caelus, Adoh, Broldan, Hector, Elysia
 
 **LLAMADO A LA ACCIÓN: AVENTUREROS DE LA ISLA DE LOS GRIFOS**
 

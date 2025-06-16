@@ -3,8 +3,8 @@ title: 00 - Índice de Aventuras
 ---
 
 ## Aventuras pendientes
-- [[17 - Dríada Desatada]]
-- [[18 - Llamado a la Acción]]
+- [[19 - Búsqueda y Captura]]
+- [[20 - Expedición Observacional y Exploratoria]]
 
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
@@ -23,3 +23,5 @@ title: 00 - Índice de Aventuras
 - [[14 - Minas Ocultas]]
 - [[15 - Titiriteros en Surlt]]
 - [[16 - Tras la Mano Ardiente]]
+- [[17 - Dríada Desatada]]
+- [[18 - Llamado a la Acción]]

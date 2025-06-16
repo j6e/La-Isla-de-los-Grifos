@@ -11,3 +11,6 @@
 - [[11 - Nota del Nigromante]]
 - [[12 - Las Once Cuerdas del Titiritero]]
 - [[13 - Encargo contra Eucleia]]
+- [[14 - Carta Anónima]]
+- [[15 - Nota Enana sobre el Laberinto]]
+- [[16 - Expedición Pirata]]

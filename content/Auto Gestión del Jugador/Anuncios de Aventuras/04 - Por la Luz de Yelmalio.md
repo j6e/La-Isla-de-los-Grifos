@@ -7,12 +7,13 @@ Participantes:
   - Caelus
   - Tyvar
   - Blueno
+  - Kyran
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-02-26
 >  - **Autor:** Elysia
->  - **Participantes:** Elysia, Caelus, Tyvar, Blueno, ?
+>  - **Participantes:** Elysia, Caelus, Tyvar, Blueno, Kyran
 
 ## ¡POR LA LUZ DE YELMALIO, SE REQUIEREN VALIENTES! 
 
