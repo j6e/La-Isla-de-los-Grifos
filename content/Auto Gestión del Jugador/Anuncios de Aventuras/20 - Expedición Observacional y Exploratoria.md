@@ -1,5 +1,5 @@
 ---
-title: 20 - Anuncio de Expedición Observacional y Exploratoria
+title: 20 - Expedición Observacional y Exploratoria
 fecha: 2025-06-25
 autor: Hector
 Participantes:
