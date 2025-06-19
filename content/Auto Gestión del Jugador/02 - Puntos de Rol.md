@@ -14,7 +14,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Steffan       | 1             |              | 1               |
 | Cirrus        |               |              |                 |
 | Toshi         |               |              |                 |
-| Elysia        | 11            | 6            | 5               |
+| Elysia        | 12            | 6            | 6               |
 | Caelus        | 7             | 4            | 3               |
 | Adoh          | 5             |              | 5               |
 | Rodalm        | 2             |              | 2               |
