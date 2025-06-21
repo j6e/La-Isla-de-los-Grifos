@@ -1,0 +1,7 @@
+>[!Info] **Registro de Aventura**
+>  Estas notas fueron encontradas en la torre de vigía abandonada en el camino de las ciudadelas por el grupo de Broldan, Ganjalf, Kyran, Adoh y Rodalm
+
+...y andamos cerca. Zar erradicó el imperio orco que dominaba la isla, así que algo tuvo que hacer con toda la riqueza que encontró. ¿Por qué no esconderlo en sus torres de vigilancia? Además, no hay que olvidar que fue su compañero enano el que colaboró en la construcción de la mayoría de ellas.... y todos sabemos el aprecio que sienten los enanos por el oro. Hemos despejado la escalera de caracol interior y pronto podremos llegar al sótano. Estoy seguro que allí encontraremos parte del tesoro perdido de Zar y... ¡Nos haremos ricos!
+
+---
+... así que maldito sea Gorn; el único oro que veremos aquí es el polvo que rasquemos de las rocas. Espero que al menos el sonido hueco del suelo del sótano nos lleve a mejor puerto... Gorn parece aferrarse a esa idea y está cavando sin cesar. Sea lo que sea, confío en que acabemos de una vez: este lugar empieza a ponerme de los nervios; por el sagrado Issaries, si hasta me ha parecido oir voces desde abajo... Será mejor que me deje de tonterías y vuelva al trabajo.

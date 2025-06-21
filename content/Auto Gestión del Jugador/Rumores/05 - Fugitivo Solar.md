@@ -1,0 +1,3 @@
+**Lugar:** Posada de los Colmillos del Gato (Nidik) y templo de Yelmalio (Nidik)
+
+>Un hombre con pinta de viajero está bebiendo apesumbrado cerca del fuego del hogar. El posadero le trae algo de beber y comer, y al pasar a tu lado te susurra que se trata de un peregrino solar que venía en una comitiva que portaba unos valiosos artefactos desde el continente. Al parecer, uno de los acólitos que le acompañaban habría robado las reliquias y escapado a la espesura hace apenas un par de días. Parece que hasta el templo de Yelmalio se ha involucrado y está ofreciendo una cuantiosa recompensa por recuperarlas...

@@ -1,0 +1,2 @@
+**Lugar:** Mercado a las afueras de Puerto Soldado
+> Los mercaderes hablan acaloradamente de como un individuo enmascarado interpretó espontáneamente una extraña función de marionetas junto a la puerta de entrada a Puerto Soldado. En ella se mostraba como un conocido guardia pelirrojo intimaba con la mujer del capitán de la guardia, Masncher Boldbuster. Desde entonces, no se ha vuelto a ver al guardia pelirrojo. ¿Qué donde será la próxima obra del Tiritero? El mismo anunció su próximo destino al final de su obra, Surlt.
