@@ -1,3 +1,0 @@
-**Lugar:** Posada del Cerdo Degollado (Surlt)
-
->Mientras observas la clientela de la posada te percatas de que en una de las mesas se hacinan una familia de campesinos o porqueros, claramente desmejorados y pasando por alguna vicisitud. Uno de los parroquianos advierte tu interés y te comenta que se trata de una familia que vivía en las afueras de la ciudadela y su chabola fue atacada por un peligroso grupo de saqueadores nuevo en la región; se dice que su líder es un poderoso hechicero orco protegido por un enorme troll de las cavernas, al que siguen varios indeseables de otras zonas de la Isla...
