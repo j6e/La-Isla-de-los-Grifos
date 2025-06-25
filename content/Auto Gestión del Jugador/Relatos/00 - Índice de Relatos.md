@@ -36,3 +36,4 @@ title: 00 - Índice de Relatos
 - [[32 - El Acólito Traidor de Yelmalio]]
 - [[33 - Sombras bajo la Torre de Yelmalio]]
 - [[34 - El Titiritero de Surlt]]
+- [[35 - Carta a Sabine Highspire]]

@@ -3,8 +3,7 @@ title: 00 - Índice de Aventuras
 ---
 
 ## Aventuras pendientes
-- [[20 - Expedición Observacional y Exploratoria]]
-
+- [[21 - Vámonos a Ockless, nenas!]]
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
 - [[02 - Por las vacas y la cerveza]]
@@ -25,6 +24,7 @@ title: 00 - Índice de Aventuras
 - [[17 - Dríada Desatada]]
 - [[18 - Llamado a la Acción]]
 - [[19 - Búsqueda y Captura]]
+- [[20 - Expedición Observacional y Exploratoria]]
 
 Además de las aventuras listadas, los siguientes personajes participaron en partidas de llegada a la isla:
 - Kyran, Ganjalf, Broldan, Blueno
