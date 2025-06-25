@@ -7,6 +7,7 @@ Participantes:
   - Adoh
   - Ganjalf
   - Broldan
+  - Kyran
 ---
 
 >[!abstract] **Detalles de la aventura**

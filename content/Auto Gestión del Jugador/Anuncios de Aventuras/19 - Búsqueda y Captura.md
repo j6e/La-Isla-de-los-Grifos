@@ -5,12 +5,15 @@ autor: Elysia
 Participantes:
   - Elysia
   - Caelus
+  - Kyran
+  - Ganjalf
+  - Gorruk
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-06-19
 >  - **Autor:** Elysia
->  - **Participantes:** Elysia, Caelus
+>  - **Participantes:** Elysia, Caelus, Ganjalf, Kyran y Gorruk
 
 **¡ATENCIÓN A TODOS LOS AVENTUREROS DE LA ISLA DE LOS GRIFOS!**
 

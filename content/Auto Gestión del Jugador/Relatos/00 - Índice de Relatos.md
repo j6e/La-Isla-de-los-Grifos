@@ -32,3 +32,7 @@ title: 00 - Índice de Relatos
 - [[28 - Salamandras y Tumbas]]
 - [[29 - Misiva Paterna]]
 - [[30 - Quita Expedición]]
+- [[31 - En Busca de la Puerta Imaginaria]]
+- [[32 - El Acólito Traidor de Yelmalio]]
+- [[33 - Sombras bajo la Torre de Yelmalio]]
+- [[34 - El Titiritero de Surlt]]

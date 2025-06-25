@@ -3,7 +3,6 @@ title: 00 - Índice de Aventuras
 ---
 
 ## Aventuras pendientes
-- [[19 - Búsqueda y Captura]]
 - [[20 - Expedición Observacional y Exploratoria]]
 
 ## Aventuras pasadas
@@ -25,3 +24,9 @@ title: 00 - Índice de Aventuras
 - [[16 - Tras la Mano Ardiente]]
 - [[17 - Dríada Desatada]]
 - [[18 - Llamado a la Acción]]
+- [[19 - Búsqueda y Captura]]
+
+Además de las aventuras listadas, los siguientes personajes participaron en partidas de llegada a la isla:
+- Kyran, Ganjalf, Broldan, Blueno
+- Elysia, Caelus, Adoh, Toshi
+- Korik, Tyvar, Steffan, Cirrus
