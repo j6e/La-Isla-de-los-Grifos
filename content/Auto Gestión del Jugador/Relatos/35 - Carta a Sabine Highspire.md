@@ -12,7 +12,7 @@ Jugadores:
 ---
 
 
->[^!abstract]+ **Detalles del relato**
+>[!abstract]+ **Detalles del relato**
 >  - **Fecha de la Partida:** 2025-06-26
 >  - **Aventura:**[[20 - Expedición Observacional y Exploratoria]]
 >  - **Autor:** Hector
