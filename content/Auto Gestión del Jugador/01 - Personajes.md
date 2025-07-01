@@ -8,20 +8,19 @@ Aquí encontraréis una lista de los personajes que hay actualmente en la Isla.
 | ------------- | -------- | ------------ | -------------------- | ------------------------- |
 | Broldan       | Humano   | Guerrero 6   | 13                   | 13                        |
 | Ganjalf       | Gnomo    | Druida 6     | 13                   | 13                        |
+| Adoh          | Humano   | Druida 6     | 12                   | 13                        |
 | Kyran         | Goliath  | Bardo 6      | 10                   | 11                        |
-| Blueno        | Tiefling | Pícaro 5     | 8                    | 9                         |
-| Tyvar         | Elfo     | Bárbaro 4    | 4                    | 5                         |
-| Korik         | Gnomo    | Mago 3       | 2                    | 4                         |
-| Steffan       | Mediano  | Pícaro 4     | 6                    | 7                         |
-| Cirrus        | Goliath  | Bárbaro 4    | 6                    | 7                         |
-| Toshi         | Humano   | Monje 4      | 5                    | 6                         |
 | Elysia        | Aasimar  | Clérigo 5    | 9                    | 10                        |
 | Caelus        | Humano   | Brujo 5      | 9                    | 10                        |
-| Adoh          | Humano   | Druida 6     | 12                   | 13                        |
-| Rodalm        | Tiefling | Clérigo 4    | 6                    | 7                         |
+| Blueno        | Tiefling | Pícaro 5     | 8                    | 9                         |
 | Héctor        | Humano   | Explorador 5 | 4                    | 8                         |
+| Steffan       | Mediano  | Pícaro 4     | 6                    | 7                         |
+| Cirrus        | Goliath  | Bárbaro 4    | 6                    | 7                         |
+| Rodalm        | Tiefling | Clérigo 4    | 6                    | 7                         |
 | Gorruk        | Orco     | Druida 4     | 3                    | 7                         |
-|               |          |              |                      |                           |
+| Toshi         | Humano   | Monje 4      | 5                    | 6                         |
+| Tyvar         | Elfo     | Bárbaro 4    | 4                    | 5                         |
+| Korik         | Gnomo    | Mago 3       | 2                    | 4                         |
 
 Las *Partidas Jugadas* son el número de sesiones en las que habéis participado. Las *Partidas Equivalentes* son el número que determina vuestro nivel siguiendo la tabla de [[Progresión de Nivel]]
 

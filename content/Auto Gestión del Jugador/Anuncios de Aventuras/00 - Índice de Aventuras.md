@@ -4,6 +4,8 @@ title: 00 - Índice de Aventuras
 
 ## Aventuras pendientes
 - [[21 - Vámonos a Ockless, nenas!]]
+- [[22 - Anuncio de Expedición de Investigación y Asistencia Táctica]]
+
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
 - [[02 - Por las vacas y la cerveza]]
