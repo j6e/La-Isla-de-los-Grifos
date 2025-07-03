@@ -4,12 +4,17 @@ fecha: 2025-06-25
 autor: Hector
 Participantes:
   - Hector
+  - Adoh
+  - Broldan
+  - Kyran
+  - Tyvar
+  - Steffan
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-06-25
 >  - **Autor:** Hector
->  - **Participantes:** Hector
+>  - **Participantes:** Hector, Adoh, Broldan, Tyvar, Kyran, Esteffan
 
 
 ## Anuncio de Expedición Observacional y Exploratoria

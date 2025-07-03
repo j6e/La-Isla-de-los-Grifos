@@ -8,6 +8,7 @@ Los personajes irán avanzando de nivel conforme vayan jugando partidas. Al fina
 | 4     | 5                   |
 | 5     | 8                   |
 | 6     | 11                  |
-| 7     | 14                  |
-| 8     | 17                  |
-| 9     | 20                  |
+| 7     | 15                  |
+| 8     | 19                  |
+| 9     | 23                  |
+| 10    | 27                  |

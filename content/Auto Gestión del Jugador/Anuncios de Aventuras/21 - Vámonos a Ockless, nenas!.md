@@ -6,12 +6,13 @@ Participantes:
   - Kyran
   - Adoh
   - Rodalm
+  - Hector
 ---
 
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-07-02
 >  - **Autor:**  Kyran
->  - **Participantes:** Kyran, Adoh, Rodalm
+>  - **Participantes:** Kyran, Adoh, Rodalm, Hector
 
 **Yahuu! Vámonos a Ockless, nenas!🎸🔥**
 

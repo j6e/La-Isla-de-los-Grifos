@@ -5,7 +5,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 
 | **Personaje** | **Asignados** | **Gastados** | **Disponibles** |
 | ------------- | ------------- | ------------ | --------------- |
-| Broldan       | 12            | 4            | 8               |
+| Broldan       | 13            | 4            | 9               |
 | Ganjalf       | 4             |              | 4               |
 | Kyran         | 6             |              | 6               |
 | Blueno        |               |              |                 |
@@ -18,7 +18,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Caelus        | 7             | 4            | 3               |
 | Adoh          | 6             |              | 6               |
 | Rodalm        | 2             |              | 2               |
-| Héctor        | 4             |              | 4               |
+| Héctor        | 5             | 4            | 1               |
 | Gorruk        |               |              |                 |
 
 [[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.

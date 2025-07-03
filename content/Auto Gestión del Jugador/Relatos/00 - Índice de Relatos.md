@@ -37,3 +37,5 @@ title: 00 - Índice de Relatos
 - [[33 - Sombras bajo la Torre de Yelmalio]]
 - [[34 - El Titiritero de Surlt]]
 - [[35 - Carta a Sabine Highspire]]
+- [[36 - Persecución de Huellas Varias]]
+- [[37 - Carta a Cornelius Highspire]]
