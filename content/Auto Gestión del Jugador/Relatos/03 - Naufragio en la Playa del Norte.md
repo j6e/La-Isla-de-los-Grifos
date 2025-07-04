@@ -3,10 +3,13 @@ title: 03 - Naufragio en la Playa del Norte
 fecha: 2025-01-12
 autor: Elysia
 Jugadores:
-- Elysia
-- Caelus
-- Toshi
-- Adoh
+  - Elysia
+  - Caelus
+  - Toshi
+  - Adoh
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract] **Detalles del relato**

@@ -7,6 +7,9 @@ Participantes:
   - Adoh
   - Rodalm
   - Hector
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

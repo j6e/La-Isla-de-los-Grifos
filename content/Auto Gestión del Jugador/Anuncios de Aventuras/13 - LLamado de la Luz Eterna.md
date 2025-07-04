@@ -9,6 +9,9 @@ Participantes:
   - Ganjalf
   - Kyran
   - Hector
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

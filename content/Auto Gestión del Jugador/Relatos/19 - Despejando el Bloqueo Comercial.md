@@ -8,6 +8,9 @@ Jugadores:
   - Blueno
   - Tyvar
   - Kyran
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]- **Detalles del relato**

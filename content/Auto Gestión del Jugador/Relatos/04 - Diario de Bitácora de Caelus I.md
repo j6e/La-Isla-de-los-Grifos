@@ -3,10 +3,13 @@ title: 04 - Diario de Bitácora de Caelus I
 fecha: 2025-01-12
 autor: Caelus
 Jugadores:
-- Elysia
-- Caelus
-- Toshi
-- Adoh
+  - Elysia
+  - Caelus
+  - Toshi
+  - Adoh
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract] **Detalles del relato**

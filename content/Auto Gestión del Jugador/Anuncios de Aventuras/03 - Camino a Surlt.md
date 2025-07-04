@@ -8,6 +8,9 @@ Participantes:
   - Elysia
   - Caelus
   - Adoh
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

@@ -8,6 +8,9 @@ Participantes:
   - Cirrus
   - Ganjalf
   - Steffan
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

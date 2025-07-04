@@ -8,6 +8,9 @@ Participantes:
   - Tyvar
   - Blueno
   - Kyran
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

@@ -9,6 +9,9 @@ Jugadores:
   - Ganjalf
   - Kyran
   - Hector
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]- **Detalles del relato**

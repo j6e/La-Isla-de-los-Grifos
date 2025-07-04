@@ -9,6 +9,9 @@ Jugadores:
   - Kyran
   - Tyvar
   - Broldan
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 

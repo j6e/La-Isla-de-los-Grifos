@@ -8,6 +8,9 @@ Participantes:
   - Caelus
   - Broldan
   - Blueno
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

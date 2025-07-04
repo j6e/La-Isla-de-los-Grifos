@@ -8,6 +8,9 @@ Jugadores:
   - Cirrus
   - Ganjalf
   - Steffan
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]- **Detalles del relato**

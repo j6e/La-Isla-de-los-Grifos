@@ -3,11 +3,14 @@ title: 06 - Cartas al Clero
 fecha: 2025-01-19
 autor: Rodalm
 Jugadores:
-- Ganjalf
-- Broldan
-- Cirrus
-- Toshi
-- Rodalm
+  - Ganjalf
+  - Broldan
+  - Cirrus
+  - Toshi
+  - Rodalm
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract] **Detalles del relato**

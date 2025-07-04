@@ -5,6 +5,12 @@ autor: Caelus
 Jugadores:
   - Caelus
   - Elysia
+  - Adoh
+  - Blueno
+  - Toshi
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

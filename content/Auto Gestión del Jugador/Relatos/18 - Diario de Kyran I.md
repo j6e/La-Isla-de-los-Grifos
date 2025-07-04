@@ -7,6 +7,9 @@ Jugadores:
   - Blueno
   - Steffan
   - Ganjalf
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]- **Detalles del relato**

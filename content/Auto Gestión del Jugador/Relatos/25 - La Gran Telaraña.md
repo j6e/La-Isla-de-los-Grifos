@@ -9,6 +9,9 @@ Jugadores:
   - Broldan
   - Toshi
   - Kyran
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

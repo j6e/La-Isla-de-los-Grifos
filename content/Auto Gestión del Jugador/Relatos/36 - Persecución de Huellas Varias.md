@@ -9,6 +9,9 @@ Jugadores:
   - Tyvar
   - Esteffan
   - Kyran
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

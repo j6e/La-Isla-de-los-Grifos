@@ -8,6 +8,9 @@ Participantes:
   - Broldan
   - Toshi
   - Rodalm
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

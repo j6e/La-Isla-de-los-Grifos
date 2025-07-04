@@ -8,6 +8,9 @@ Jugadores:
   - Blueno
   - Ganjalf
   - Kyran
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

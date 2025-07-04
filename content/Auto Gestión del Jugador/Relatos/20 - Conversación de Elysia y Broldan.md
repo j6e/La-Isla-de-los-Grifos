@@ -5,6 +5,9 @@ autor: Broldan y Elysia
 Jugadores:
   - Broldan
   - Elysia
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]- **Detalles del relato**

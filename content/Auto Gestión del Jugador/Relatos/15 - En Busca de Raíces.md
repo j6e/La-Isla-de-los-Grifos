@@ -8,6 +8,9 @@ Jugadores:
   - Elysia
   - Kaelus
   - Kyran
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]- **Detalles del relato**

@@ -8,6 +8,9 @@ Participantes:
   - Blueno
   - Adoh
   - Toshi
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

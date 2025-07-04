@@ -9,6 +9,9 @@ Participantes:
   - Kyran
   - Tyvar
   - Steffan
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

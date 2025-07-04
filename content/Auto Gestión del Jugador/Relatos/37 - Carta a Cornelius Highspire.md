@@ -7,6 +7,9 @@ Jugadores:
   - Kyran
   - Adoh
   - Rodalm
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

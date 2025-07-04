@@ -8,6 +8,9 @@ Jugadores:
   - Broldan
   - Elysia
   - Caelus
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

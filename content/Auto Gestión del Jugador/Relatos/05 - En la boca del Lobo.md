@@ -3,11 +3,14 @@ title: 05 - En la boca del Lobo
 fecha: 2025-01-19
 autor: Ganjalf
 Jugadores:
-- Ganjalf
-- Broldan
-- Cirrus
-- Toshi
-- Rodalm
+  - Ganjalf
+  - Broldan
+  - Cirrus
+  - Toshi
+  - Rodalm
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract] **Detalles del relato**

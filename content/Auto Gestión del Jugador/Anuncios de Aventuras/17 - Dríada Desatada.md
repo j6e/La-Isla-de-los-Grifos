@@ -7,6 +7,9 @@ Participantes:
   - Gorruk
   - Ganjalf
   - Cirrus
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

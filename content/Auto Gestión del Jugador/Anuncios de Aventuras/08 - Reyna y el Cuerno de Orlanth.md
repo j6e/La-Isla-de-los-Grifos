@@ -7,6 +7,9 @@ Participantes:
   - Blueno
   - Ganjalf
   - Steffan
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 **Kyran anuncia Kyran te paga 🎸🎵 **
 >[!abstract] **Detalles de la aventura**

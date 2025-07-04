@@ -8,6 +8,9 @@ Participantes:
   - Broldan
   - Hector
   - Elysia
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

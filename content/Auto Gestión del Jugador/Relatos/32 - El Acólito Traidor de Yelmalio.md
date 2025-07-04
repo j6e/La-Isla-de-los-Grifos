@@ -8,6 +8,9 @@ Jugadores:
   - Ganjalf
   - Gorruk
   - Kyran
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

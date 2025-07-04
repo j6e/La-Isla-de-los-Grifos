@@ -7,6 +7,9 @@ Jugadores:
   - Broldan
   - Cirrus
   - Steffan
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract] **Detalles del relato**

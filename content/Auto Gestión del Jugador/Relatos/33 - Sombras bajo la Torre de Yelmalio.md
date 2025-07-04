@@ -7,6 +7,9 @@ Jugadores:
   - Adoh
   - Broldan
   - Hector
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

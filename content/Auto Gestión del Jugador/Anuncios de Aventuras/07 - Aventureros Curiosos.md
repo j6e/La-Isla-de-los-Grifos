@@ -8,6 +8,9 @@ Participantes:
   - Elysia
   - Caelus
   - Broldan
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

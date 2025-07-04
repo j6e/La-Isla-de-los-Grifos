@@ -8,6 +8,9 @@ Participantes:
   - Kyran
   - Ganjalf
   - Gorruk
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

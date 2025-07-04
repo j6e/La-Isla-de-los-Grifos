@@ -8,6 +8,9 @@ Participantes:
   - Elysia
   - Gorruk
   - Ganjalf
+tags: 
+  - isla-grifos
+  - autoguiada
 is_done: false
 ---
 

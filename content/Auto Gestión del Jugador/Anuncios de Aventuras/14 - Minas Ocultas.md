@@ -7,6 +7,9 @@ Participantes:
   - Hector
   - Rodalm
   - Broldan
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**

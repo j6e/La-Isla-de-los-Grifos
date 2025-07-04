@@ -6,6 +6,9 @@ Jugadores:
   - Broldan
   - Adoh
   - Ganjalf
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract]+ **Detalles del relato**

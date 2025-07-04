@@ -3,11 +3,14 @@ title: 07 - Diario de Bitácora de Caelus II
 fecha: 2025-01-19
 autor: Caelus
 Jugadores:
-- Elysia
-- Caelus
-- Adoh
-- Korik
-- Tyvar
+  - Elysia
+  - Caelus
+  - Adoh
+  - Korik
+  - Tyvar
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract] **Detalles del relato**

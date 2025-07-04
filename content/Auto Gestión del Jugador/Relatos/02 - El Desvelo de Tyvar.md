@@ -7,6 +7,9 @@ Jugadores:
   - Cirrus
   - Steffan
   - Korik
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract] **Detalles del relato**

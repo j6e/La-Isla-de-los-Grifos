@@ -7,6 +7,9 @@ Jugadores:
   - Kayran
   - Ganyalf
   - Blueno
+tags: 
+  - isla-grifos
+  - relato
 ---
 
 >[!abstract] **Detalles del relato**

@@ -6,6 +6,9 @@ Participantes:
   - Ganjalf
   - Broldan
   - Adoh
+tags: 
+  - isla-grifos
+  - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**
