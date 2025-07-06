@@ -75,7 +75,7 @@ sustancial de la aristocracia está vinculada a una organización conocida
 como el Ojo Carmesí, que absorbe vitalidad de los menos favorecidos para
 prolongar sus vidas[^5].
 
-El poder en Ockless se halla concentrado en la figura de Halcyon var
+El poder en Ockless se halla concentrado en la figura de Halcyon van
 Enkorth, poderoso hechicero y primer ministro, flanqueado por su
 segundo, el hechicero orco Egu-Gah. Ambos encarnan, sin aparente
 esfuerzo, una autoridad incuestionada sustentada en una mezcla eficaz de

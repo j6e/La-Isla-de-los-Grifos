@@ -15,7 +15,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Cirrus        |               |              |                 |
 | Toshi         |               |              |                 |
 | Elysia        | 13            | 6            | 7               |
-| Caelus        | 7             | 4            | 3               |
+| Caelus        | 8             | 4            | 4               |
 | Adoh          | 6             |              | 6               |
 | Rodalm        | 2             |              | 2               |
 | Héctor        | 5             | 4            | 1               |
