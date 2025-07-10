@@ -39,3 +39,5 @@ title: 00 - Índice de Relatos
 - [[35 - Carta a Sabine Highspire]]
 - [[36 - Persecución de Huellas Varias]]
 - [[37 - Carta a Cornelius Highspire]]
+- [[38 - El Templo de Kaldaris y la historia del amante nigromante]]
+- [[39 - Segunda Carta a Sabine Highspire]]

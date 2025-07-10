@@ -9,4 +9,5 @@ En esta sección se recopilarán todas la información referente al desarrollo d
 - [[00 - Índice de Relatos|Índice de Relatos:]] donde tenéis la lista de relatos escritos por los jugadores
 - [[00 - Índice de Handouts|Índice de Handouts:]] aquí están la mayoría de notas, libros u otros objetos que os hayáis encontrado jugando y contengan información sobre la partida.
 - [[00 - Índice de Rumores|Índice de Rumores:]] aquí encontraréis rumores que están circulando actualmente por la isla.
-- [[00 - Índice de Aventuras|Índice de Aventuras]] donde tenéis la lista de aventuras presentes y pasadas
+- [[00 - Índice de Aventuras|Índice de Aventuras:]] donde tenéis la lista de aventuras presentes y pasadas.
+- [[00 - Fuerte Brillante|Fuerte Brillante:]] toda la información del bastión de los jugadores

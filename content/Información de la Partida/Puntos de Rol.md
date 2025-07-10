@@ -1,4 +1,4 @@
-Los puntos de rol (o PRs) son una metamoneda que se otorga a los personajes de los jugadores por realizar contribuciones a la campaña que benefician a todos y posibilitan el correcto funcionamiento de la campaña. En general, estás contribuciones son en forma de relatos y de propuestas de aventura. Ambas premiadas con 1 PR.
+Los puntos de rol (o PRs) son una metamoneda que se otorga a los personajes de los jugadores por realizar contribuciones a la campaña que benefician a todos y posibilitan el correcto funcionamiento de la campaña. En general, estás contribuciones son en forma de relatos, propuestas de aventura, fichas de NPCs... Todas premiadas con 1 PR.
 
 ## Gasto de Puntos de Rol
 
@@ -22,15 +22,10 @@ Además, al precio del objeto mágico se sumará el precio en oro de su objeto b
 Por ejemplo, un bastón infrecuente costaría 6PR  y 2SP. Mientras que una armadura de placas común costaría 2PR y 1500GP.
 
 ## Bastiones
->[!Warning]+ **Sección Provisional**
->  Esta sección es provisional y puede que cambie y se amplíe en el futuro
 
-Los personajes que hayan alcanzado nivel 5 pueden gastar 2PR y obtener un [[Bastiones|bastión]]. 
+Los personajes que hayan alcanzado nivel 5 pueden gastar 2PR y obtener una habitación extra de [[Bastiones|bastión]]. 
 
 ### Reputación con Facciones
-
->[!Warning]+ **Sección Provisional**
->  Esta sección es provisional y puede que cambie y se amplíe en el futuro
 
 Existen 5 facciones principales en la Isla de los Grifos: Puerto Soldado, Surlt, Nidik, Ockless y los Votankis. Los grados de reputación con cada facción son:
 - **Indiferente**
