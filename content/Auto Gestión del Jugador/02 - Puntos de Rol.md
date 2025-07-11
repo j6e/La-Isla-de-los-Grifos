@@ -14,11 +14,11 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Steffan       | 1             |              | 1               |
 | Cirrus        |               |              |                 |
 | Toshi         |               |              |                 |
-| Elysia        | 14            | 6            | 8               |
+| Elysia        | 15            | 6            | 9               |
 | Caelus        | 8             | 8            | 0               |
 | Adoh          | 6             |              | 6               |
 | Rodalm        | 2             |              | 2               |
 | Héctor        | 6             | 4            | 2               |
-| Gorruk        |               |              |                 |
+| Gorruk        | 2             |              | 2               |
 
 [[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.

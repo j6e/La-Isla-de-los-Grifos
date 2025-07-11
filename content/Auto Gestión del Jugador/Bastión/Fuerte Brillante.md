@@ -25,7 +25,9 @@ Aunque aun está por terminar, cuenta con una posada totalmente equipada: *La Ce
 
 ## Habitantes
 - La posadera [[Golda Tabb]]
-
+- La niña recolectora de perlas [[Celina Varen]]
+- El guardia curtido [[Orval Dentrath]]
+- La herborista [[Izzka Aliento Verde]]
 ## Instalaciones
 La Lista de Instalaciones que han comprado los personajes.
 - **Hector**
