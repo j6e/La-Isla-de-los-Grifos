@@ -19,7 +19,7 @@ diseñado_por: Gorruk
 
 **Personalidad:** Orval es reservado, habla poco y con frases secas, sin adornos, pero es leal. Si te ganas su respeto, lo tendrás para siempre, especialmente con actos, no con palabras. Es más intelectual de lo que parece; a veces se le puede encontrar leyendo viejos textos en silencio, intentando reconciliarse con ideales perdidos.
 
-Es algo severo con los nuevos, especialmente con aquellos arrogantes o imprudentes, pero jamás se aprovecha de su rango o fuerza. Y es aunque está desencantado y su fe en las instituciones ha muerto, aún cree en las personas.
+Es algo severo con los nuevos, especialmente con aquellos arrogantes o imprudentes, pero jamás se aprovecha de su rango o fuerza. Y es aunque está desencantado y su fe en las instituciones ha muerto, una mirada de su hija [[Marla Dentrath|Marla]] le devuelve la fe en las personas.
 
 **Quirks:** Cuando patrulla, recita viejos poemas de caballería en voz baja, en parte por entretenimiento y en parte como ritual para no oxidarse. Tiene un diario donde registra en tercera persona lo que ocurre en la base; él lo llama “La Crónica de la fortaleza”.
 
