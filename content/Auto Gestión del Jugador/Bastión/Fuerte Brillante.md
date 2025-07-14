@@ -28,6 +28,8 @@ Aunque aun está por terminar, cuenta con una posada totalmente equipada: *La Ce
 - La niña recolectora de perlas [[Celina Varen]]
 - El guardia curtido [[Orval Dentrath]]
 - La herborista [[Izzka Aliento Verde]]
+- La bibliotecaria personal de Héctor Highsprie, [[Marla Dentrath]]
+- El encargado del embarcadero [[Harg 'La Cólera']]
 ## Instalaciones
 La Lista de Instalaciones que han comprado los personajes.
 - **Hector**
