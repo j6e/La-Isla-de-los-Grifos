@@ -3,7 +3,8 @@ title: 00 - Índice de Aventuras
 ---
 
 ## Aventuras pendientes
-- [[23 - Fundación del Bastión]]
+[[24 - Excursión al Norte]]
+[[25 - Tribu de hombres lobo]]
 ## Aventuras pasadas
 - [[01 - Kyran anuncia Kyran te paga]]
 - [[02 - Por las vacas y la cerveza]]
@@ -27,6 +28,7 @@ title: 00 - Índice de Aventuras
 - [[20 - Expedición Observacional y Exploratoria]]
 - [[21 - Vámonos a Ockless, nenas!]]
 - [[22 - Anuncio de Expedición de Investigación y Asistencia Táctica]]
+- [[23 - Fundación del Bastión]]
 
 Además de las aventuras listadas, los siguientes personajes participaron en partidas de llegada a la isla:
 - Kyran, Ganjalf, Broldan, Blueno

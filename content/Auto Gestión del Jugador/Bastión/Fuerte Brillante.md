@@ -14,6 +14,7 @@ Aunque aun está por terminar, cuenta con una posada totalmente equipada: *La Ce
 |   1    |  🪙   | **Tesoro**      | Reservas de oro (_cada punto equivale a 100 PO_)             |
 |   +2   |  🎖️  | **Reputación**  | Influencia y prestigio en la región                          |
 
+
 ### Relaciones Diplomáticas
 | Relación | Facción            |
 | -------- | ------------------ |
@@ -33,4 +34,12 @@ Aunque aun está por terminar, cuenta con una posada totalmente equipada: *La Ce
 ## Instalaciones
 La Lista de Instalaciones que han comprado los personajes.
 - **Hector**
-	- Librería:
+	- Librería
+- **Gorruk**
+	- Armería
+- **Ganyalf**
+	- Jardín
+- **Caelus**
+	- Almacén
+- **Elysia**
+	- 
