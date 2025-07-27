@@ -2,6 +2,10 @@ Sobre los restos del antiguo campamento bandido y flanqueado por el delta del r�
 
 Aunque aun está por terminar, cuenta con una posada totalmente equipada: *La Cerda Disfrutona*. Parada obligatoria para toda caravana comercial. Un pequeño embarcadero para botes. Un gran almacén para mercancías y una guarnición para la guardia. Esta principalmente compuesta de mercenarios subcontratados al Gran Plutarca de Puerto Soldado, que participa de la empresa llevándose un impuesto del 10% de todas las mercancías que pasan por allí. 
 
+![[cerda_disfrutona.jpg|300]]
+
+Finalmente los aventureros aceptaron el préstamo del templo de Issaries, sencillamente había demasiados gastos a los que hacer frente. E invirtieron parte de ese dinero en montar un festival para dar a conocer el lugar y atraer gente y comercio.
+
 ## Estado del Bastión
 
 | Estado | Emoji | Indicador       | Descripción en Español                                       |
