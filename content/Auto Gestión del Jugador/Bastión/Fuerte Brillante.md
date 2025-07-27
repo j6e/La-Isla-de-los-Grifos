@@ -7,20 +7,20 @@ Aunque aun está por terminar, cuenta con una posada totalmente equipada: *La Ce
 | Estado | Emoji | Indicador       | Descripción en Español                                       |
 | :----: | :---: | --------------- | ------------------------------------------------------------ |
 |   -2   |  🛡️  | **Defensa**     | Fortificaciones y seguridad del bastión                      |
-|   +1   |  💰   | **Economía**    | Flujo de recursos, productividad y prosperidad.              |
-|   +4   |  👥   | **Población**   | Número de colonos asentados (*cada punto son 10 habitantes*) |
-|   +1   |  ❤️   | **Bienestar**   | Moral, salud y felicidad de los habitantes                   |
-|   +1   |  🏛️  | **Estabilidad** | Cohesión interna y control del asentamiento                  |
-|   1    |  🪙   | **Tesoro**      | Reservas de oro (_cada punto equivale a 100 PO_)             |
+|   +0   |  💰   | **Economía**    | Flujo de recursos, productividad y prosperidad.              |
+|   +5   |  👥   | **Población**   | Número de colonos asentados (*cada punto son 10 habitantes*) |
+|   +2   |  ❤️   | **Bienestar**   | Moral, salud y felicidad de los habitantes                   |
+|   +2   |  🏛️  | **Estabilidad** | Cohesión interna y control del asentamiento                  |
+|  +15   |  🪙   | **Tesoro**      | Reservas de oro (_cada punto equivale a 100 PO_)             |
 |   +2   |  🎖️  | **Reputación**  | Influencia y prestigio en la región                          |
-
+- Se deben 6 pagos de 4 tesoros al templo de Issaries por un préstamo de 20 Tesoros. 
 
 ### Relaciones Diplomáticas
 | Relación | Facción            |
 | -------- | ------------------ |
-| +2       | **Puerto Soldado** |
+| +3       | **Puerto Soldado** |
+| +2       | **Nidik**          |
 | +1       | **Sulrt**          |
-| +1       | **Nidik**          |
 | -3       | **Ockless**        |
 | 0        | **Votankis**       |
 
@@ -29,12 +29,14 @@ Aunque aun está por terminar, cuenta con una posada totalmente equipada: *La Ce
 - La niña recolectora de perlas [[Celina Varen]]
 - El guardia curtido [[Orval Dentrath]]
 - La herborista [[Izzka Aliento Verde]]
-- La bibliotecaria personal de Héctor Highsprie, [[Marla Dentrath]]
+- La bibliotecaria personal de Héctor Highspire, [[Marla Dentrath]]
+- Empleados de Héctor Highspire, [[Hermanos Velmoor]]
 - El encargado del embarcadero [[Harg 'La Cólera']]
 ## Instalaciones
 La Lista de Instalaciones que han comprado los personajes.
 - **Hector**
 	- Librería
+	- Taller
 - **Gorruk**
 	- Armería
 - **Ganyalf**
@@ -42,4 +44,4 @@ La Lista de Instalaciones que han comprado los personajes.
 - **Caelus**
 	- Almacén
 - **Elysia**
-	- 
+	- Santuario
