@@ -5,6 +5,10 @@ autor: Caelus
 Participantes:
   - Caelus
   - Elysia
+  - Hector
+  - Broldan
+  - Kyran
+  - Ganjalf
 tags:
   - isla-grifos
   - autoguiada
@@ -13,7 +17,7 @@ tags:
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2025-07-10
 >  - **Autor:** Caelus
->  - **Participantes:** Caelus, Elysia
+>  - **Participantes:** Caelus, Elysia, Hector, Broldan, Kyran, Ganjalf
 
 # LLAMADO A LA FUNDACIÓN DEL BASTIÓN ALBA NACIENTE
 

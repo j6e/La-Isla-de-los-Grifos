@@ -5,9 +5,9 @@ autor: Broldan
 Jugadores:
   - Broldan
   - Kayran
-  - Ganyalf
   - Blueno
-tags: 
+  - Ganjalf
+tags:
   - isla-grifos
   - relato
 ---
@@ -16,12 +16,12 @@ tags:
 >  - **Fecha de la Partida:** 2024-12-26
 >  - **Aventura:** Llegada a la Isla
 >  - **Autor:** Broldan
->  - **Jugadores:** Broldan, Kayran, Ganyalf, Blueno
+>  - **Jugadores:** Broldan, Kayran, Ganjalf, Blueno
 
 Cuatro aventureros, unidos por circunstancias vitales variopintas, deciden embarcarse en la aventura de sus vidas: viajar a la Isla de los Grifos.  El grupo está compuesto por cuatro miembros:
 
 - **Broldan RocaPiedra**: un granjero humano con fascinación por los enanos y las vacas.
-- **Ganyalf**: un gnomo druida al que le encanta el queso.
+- **Ganjalf**: un gnomo druida al que le encanta el queso.
 - **Kayran**: un estridente bardo goliath que ameniza a la gente por donde pasa.
 - **Blueno**: un pícaro tiefling introvertido, de manos largas y con cierta afición por las sustancias "prohibidas".
 

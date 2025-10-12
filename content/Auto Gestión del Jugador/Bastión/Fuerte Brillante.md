@@ -43,9 +43,11 @@ La Lista de Instalaciones que han comprado los personajes.
 	- Taller
 - **Gorruk**
 	- Armería
-- **Ganyalf**
+- **Ganjalf**
 	- Jardín
 - **Caelus**
 	- Almacén
 - **Elysia**
 	- Santuario
+- **Broldan**
+	- ?

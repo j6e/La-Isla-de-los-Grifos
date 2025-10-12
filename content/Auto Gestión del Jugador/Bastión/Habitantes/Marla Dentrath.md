@@ -8,7 +8,6 @@ tags:
 campaña: wm-ig
 diseñado_por: Hector
 ---
-
 # Marla Dentrath
 
 ![[Marla.jpg]]

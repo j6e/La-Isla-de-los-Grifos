@@ -32,7 +32,7 @@ Superamos las arenas movedizas al inicio del territorio escarabajil—hubo que e
 
 Fuimos eliminando a los escarabajos uno a uno. Ganjalf disparaba rayos de luz, los pícaros saltaban desde las sombras como si fueran parte del decorado, y yo, como siempre, al frente. Cirrus me cubría las espaldas, algo que siempre aprecio. Me gusta la gente que pelea hombro con hombro.
 
-Tras abrirnos paso, llegamos a una gruta con un gran agujero. Ganyalf usó su magia para localizar las raíces, y gracias a eso conseguí recolectar tres. El sitio apestaba a muerte; claramente estábamos en su madriguera. Había restos humanos, armas especiales y un fragmento de diario bastante inquietante.
+Tras abrirnos paso, llegamos a una gruta con un gran agujero. Ganjalf usó su magia para localizar las raíces, y gracias a eso conseguí recolectar tres. El sitio apestaba a muerte; claramente estábamos en su madriguera. Había restos humanos, armas especiales y un fragmento de diario bastante inquietante.
 
 Descendimos por el agujero y encontramos un portal bañado en una brillante luz sedosa. Buscaron magia con rituales arcanos pero por lo visto era una magia que aunaba todas pero a la vez ninguna, pero lo importante vino después…
 

@@ -15,7 +15,7 @@ diseñado_por: Elysia
 
 **Nombre:** Celina Varen, alias "Perlita".
 
-**Descripción Física:** Celina es una niña de unos 11 años, de piel bronceada por el sol, cabello castaño claro y desordenado, que siempre lleva el pelo húmedo por su trabajo en la costa, lo que le hace tener un olor fuerte a algas marinas. 
+**Descripción Física:** Celina es una niña de unos 10 años, de piel bronceada por el sol, cabello castaño claro y desordenado, que siempre lleva el pelo húmedo por su trabajo en la costa, lo que le hace tener un olor fuerte a algas marinas. 
 
 Sus ojos son castaños y siempre va vestida con un vestido raído de lino, ya remendado varias veces. Lleva colgado al cuello un collar hecho con una cuerda de cáñamo con una caracola brillante. 
 

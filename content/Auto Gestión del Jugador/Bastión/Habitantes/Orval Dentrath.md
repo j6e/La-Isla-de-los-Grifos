@@ -8,7 +8,6 @@ tags:
 campaña: wm-ig
 diseñado_por: Gorruk
 ---
-
 # Orval Dentrath
 
 ![[OrvalDentrath.png]]
