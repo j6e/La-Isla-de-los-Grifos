@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "LA ISLA DE LOS GRIFOS",
-    pageTitleSuffix: "La campaña West Marches de la Isla de los Grifos",
+    pageTitleSuffix: " West Marches de la Isla de los Grifos",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
