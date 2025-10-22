@@ -7,16 +7,16 @@ Aquí encontraréis una lista de los personajes que hay actualmente en la Isla.
 | **Personaje** | **Raza** | **Niveles**  | **Partidas Jugadas** | **Partidas Equivalentes** |
 | ------------- | -------- | ------------ | -------------------- | ------------------------- |
 | Ganjalf       | Gnomo    | Druida 7     | 17                   | 17                        |
-| Broldan       | Humano   | Guerrero 7   | 16                   | 16                        |
-| Kyran         | Goliath  | Bardo 7      | 14                   | 15                        |
+| Broldan       | Humano   | Guerrero 7   | 17                   | 17                        |
+| Kyran         | Goliath  | Bardo 7      | 15                   | 16                        |
+| Elysia        | Aasimar  | Clérigo 7    | 14                   | 15                        |
+| Caelus        | Humano   | Brujo 7      | 14                   | 15                        |
 | Adoh          | Humano   | Druida 6     | 13                   | 14                        |
-| Elysia        | Aasimar  | Clérigo 6    | 13                   | 14                        |
-| Caelus        | Humano   | Brujo 6      | 13                   | 14                        |
 | Héctor        | Humano   | Explorador 6 | 8                    | 12                        |
+| Steffan       | Mediano  | Pícaro 5     | 7                    | 11                        |
 | Blueno        | Tiefling | Pícaro 5     | 8                    | 10                        |
 | Rodalm        | Tiefling | Clérigo 5    | 7                    | 10                        |
 | Gorruk        | Orco     | Druida 5     | 5                    | 10                        |
-| Steffan       | Mediano  | Pícaro 5     | 6                    | 10                        |
 | Cirrus        | Goliath  | Bárbaro 5    | 6                    | 10                        |
 | Toshi         | Humano   | Monje 5      | 5                    | 10                        |
 | Tyvar         | Elfo     | Bárbaro 5    | 4                    | 10                        |

@@ -11,3 +11,4 @@ En esta sección se recopilarán todas la información referente al desarrollo d
 - [[00 - Índice de Rumores|Índice de Rumores:]] aquí encontraréis rumores que están circulando actualmente por la isla.
 - [[00 - Índice de Aventuras|Índice de Aventuras:]] donde tenéis la lista de aventuras presentes y pasadas.
 - [[Fuerte Brillante|Fuerte Brillante:]] toda la información del bastión de los jugadores
+- [[04 - Progreso de Eventos|Progreso de Eventos:]] el registro sobre los diferentes eventos en marcha en la trama de la isla

@@ -5,6 +5,9 @@ autor: Elysia
 Participantes:
   - Elysia
   - Caelus
+  - Broldan
+  - Kyran
+  - Steffan
 tags:
   - isla-grifos
   - autoguiada
@@ -13,6 +16,6 @@ tags:
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:**  2025-22-10
 >  - **Autor:** Elysia
->  - **Participantes:** Elysia, Caelus
+>  - **Participantes:** Elysia, Caelus, Steffan, Broldan, Kyran
 
 ![[CartelPobladoMaldito.jpg]]
