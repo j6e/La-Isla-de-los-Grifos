@@ -1,3 +1,7 @@
+---
+title: Progreso de Eventos
+---
+
 En esta sección podréis ver como progresan los diferentes eventos de la isla de los que tenéis constancia. Los [relojes de progreso](https://bladesinthedark.com/progress-clocks) son una herramienta para representar de forma abstracta el avance de algo, en este caso los usaremos para representar avances en vuestro fuerte, proyectos personales, etc. Pero sobre todo, eventos del mundo relacionados con facciones y otros habitantes de la isla. 
 
 Los relojes se representaran con `x/y`, donde `y` representará la duración total del reloj y `x` el avance actual del reloj. Por defecto, cada sesión avanzará en 1 todos los relojes (sumará 1 a la x). Sucesos especiales de las partidas pueden hacer avanzar o retroceder los relojes de forma excepcional.
