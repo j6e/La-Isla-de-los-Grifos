@@ -5,7 +5,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 
 | **Personaje** | **Asignados** | **Gastados** | **Disponibles** |
 | ------------- | ------------- | ------------ | --------------- |
-| Broldan       | 15            | 12           | 3               |
+| Broldan       | 15            | 12           | 4               |
 | Ganjalf       | 5             |              | 5               |
 | Kyran         | 8             | 8            | 0               |
 | Blueno        |               |              |                 |
@@ -14,7 +14,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 | Steffan       | 1             |              | 1               |
 | Cirrus        |               |              |                 |
 | Toshi         |               |              |                 |
-| Elysia        | 17            | 6            | 11              |
+| Elysia        | 18            | 6            | 12              |
 | Caelus        | 8             | 8            | 0               |
 | Adoh          | 6             |              | 6               |
 | Rodalm        | 2             |              | 2               |
