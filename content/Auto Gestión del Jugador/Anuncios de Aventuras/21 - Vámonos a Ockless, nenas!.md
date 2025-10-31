@@ -1,5 +1,5 @@
 ---
-title: 2025-07-02 - Vámonos a Ockless, nenas!
+title: 21 - Vámonos a Ockless, nenas!
 fecha: 2025-07-02
 autor: Kyran
 Participantes:
@@ -7,7 +7,7 @@ Participantes:
   - Adoh
   - Rodalm
   - Hector
-tags: 
+tags:
   - isla-grifos
   - autoguiada
 ---
