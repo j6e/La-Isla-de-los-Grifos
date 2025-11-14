@@ -1,14 +1,14 @@
 ---
 title: 34 - El Titiritero de Surlt
 fecha: 2025-06-25
-autor: Kyran
+autor: Adoh
 Jugadores:
   - Adoh
   - Cirrus
   - Blueno
   - Ganjalf
   - Kyran
-tags: 
+tags:
   - isla-grifos
   - relato
 ---

@@ -5,15 +5,16 @@ autor: Caelus
 Participantes:
   - Caelus
   - Elysia
+  - Kyran
 tags:
   - isla-grifos
   - autoguiada
 ---
 
 >[!abstract] **Detalles de la aventura**
->  - **Fecha de la Partida:**  2025-11-05
+>  - **Fecha de la Partida:**  2025-11-12
 >  - **Autor:** Caelus
->  - **Participantes:** Caelus, Elysia 
+>  - **Participantes:** Caelus, Elysia, Kyran
 
 **LLAMADO A LA ACCIÓN — CAELUS**
 

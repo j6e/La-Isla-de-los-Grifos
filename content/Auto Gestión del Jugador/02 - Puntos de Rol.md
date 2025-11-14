@@ -5,20 +5,20 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 
 | **Personaje** | **Asignados** | **Gastados** | **Disponibles** |
 | ------------- | ------------- | ------------ | --------------- |
+| Elysia        | 18            | 6            | 12              |
 | Broldan       | 15            | 12           | 4               |
-| Ganjalf       | 5             |              | 5               |
+| Caelus        | 8             | 8            | 0               |
 | Kyran         | 8             | 8            | 0               |
-| Blueno        |               |              |                 |
+| Héctor        | 8             | 4            | 4               |
+| Adoh          | 8             |              | 8               |
+| Ganjalf       | 5             |              | 5               |
 | Tyvar         | 4             |              | 4               |
-| Korik         |               |              |                 |
+| Rodalm        | 2             |              | 2               |
+| Gorruk        | 2             |              | 2               |
 | Steffan       | 1             |              | 1               |
+| Blueno        |               |              |                 |
+| Korik         |               |              |                 |
 | Cirrus        |               |              |                 |
 | Toshi         |               |              |                 |
-| Elysia        | 18            | 6            | 12              |
-| Caelus        | 8             | 8            | 0               |
-| Adoh          | 6             |              | 6               |
-| Rodalm        | 2             |              | 2               |
-| Héctor        | 8             | 4            | 4               |
-| Gorruk        | 2             |              | 2               |
 
 [[Puntos de Rol|Aquí]] podéis leer sobre como gastar estos PRs.
