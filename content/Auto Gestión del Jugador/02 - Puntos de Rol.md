@@ -5,12 +5,12 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 
 | **Personaje** | **Asignados** | **Gastados** | **Disponibles** |
 | ------------- | ------------- | ------------ | --------------- |
-| Elysia        | 18            | 6            | 12              |
+| Elysia        | 19            | 6            | 13              |
 | Broldan       | 15            | 12           | 4               |
 | Caelus        | 8             | 8            | 0               |
-| Kyran         | 8             | 8            | 0               |
+| Kyran         | 9             | 8            | 1               |
 | Héctor        | 8             | 4            | 4               |
-| Adoh          | 8             |              | 8               |
+| Adoh          | 9             |              | 9               |
 | Ganjalf       | 5             |              | 5               |
 | Tyvar         | 4             |              | 4               |
 | Rodalm        | 2             |              | 2               |
