@@ -6,15 +6,15 @@ Aquí encontraréis una lista de los personajes que hay actualmente en la Isla.
 
 | **Personaje** | **Raza** | **Niveles**  | **Partidas Jugadas** | **Partidas Equivalentes** |
 | ------------- | -------- | ------------ | -------------------- | ------------------------- |
-| Broldan       | Humano   | Guerrero 8   | 19                   | 19                        |
-| Kyran         | Goliath  | Bardo 8      | 18                   | 19                        |
+| Broldan       | Humano   | Guerrero 8   | 20                   | 20                        |
+| Kyran         | Goliath  | Bardo 8      | 19                   | 20                        |
 | Ganjalf       | Gnomo    | Druida 7     | 17                   | 17                        |
 | Elysia        | Aasimar  | Clérigo 7    | 16                   | 17                        |
 | Caelus        | Humano   | Brujo 7      | 16                   | 17                        |
-| Adoh          | Humano   | Druida 7     | 14                   | 15                        |
+| Adoh          | Humano   | Druida 7     | 15                   | 16                        |
 | Héctor        | Humano   | Explorador 6 | 8                    | 12                        |
-| Steffan       | Mediano  | Pícaro 5     | 7                    | 11                        |
 | Rodalm        | Tiefling | Clérigo 5    | 8                    | 11                        |
+| Steffan       | Mediano  | Pícaro 5     | 7                    | 11                        |
 | Blueno        | Tiefling | Pícaro 5     | 8                    | 10                        |
 | Cirrus        | Goliath  | Bárbaro 5    | 6                    | 10                        |
 | Gorruk        | Orco     | Druida 5     | 5                    | 10                        |

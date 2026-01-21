@@ -14,14 +14,20 @@ Por último, existen relojes que están avanzando pero aun no se han descubierto
 
 ---
 
-## La Rebelión de Flor Oscura (4/9)
-Tal y como advirtió Rynariel, el guardabosques elfo que se pasó por el festival de Fuerte Brillante, parece que las dríades rebeldes traman algo y su actividad se está incrementando en las profundidades del Bosque de Emich
 
-## Velas Negras (4/6)
+
+## Velas Negras (5/6)
 El incidente de los titiriteros durante el festival solo empeoró las cosas, los faeneros de Fuerte Brillante llevan meses avistando barcos de velas negras en la noche. Aparentemente forman parte de una célula orca de Ockless, pero parece que ahora responden ante otro amo...
 
 ##  La Defensa del Templo de Kaldaris (3/6)
 Tras los últimos donativos conseguidos en el festival de Fuerte Brillante, los acólitos de Kaldaris amanecen con recursos suficientes para sobrevivir una estación más. Pero estos aguerridos guerreros saben que el Nigromante no descansa y no pueden descuidarse...
 
-## La Muerte del Coatl (3/12)
+## La Muerte del Coatl (4/12)
 El poblado votanki abandonado oculta un oscuro y poderoso ser encerrado más allá de este mundo, donde no puede causarnos daño. La defensa del ritual que lo mantiene encerrado depende de un Coatl herido de muerte, dice que le quedan unas estaciones más como mucho. Entonces, la terrible oscuridad que emana esta temible criatura se liberará. 
+
+---
+## Pasados
+## La Rebelión de Flor Oscura (Solucionado)
+Tal y como advirtió Rynariel, el guardabosques elfo que se pasó por el festival de Fuerte Brillante, parece que las dríades rebeldes traman algo y su actividad se está incrementando en las profundidades del Bosque de Emich.
+
+**Conclusión:** La rebelión de flor oscura fue aplacada y los personajes se hicieron con la semilla del loto negro.
