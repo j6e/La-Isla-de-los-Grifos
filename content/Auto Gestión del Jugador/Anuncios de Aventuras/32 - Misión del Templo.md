@@ -6,6 +6,7 @@ Participantes:
   - Elysia
   - Caelus
   - Broldan
+  - Kyran
   - Hector
 tags:
   - isla-grifos
@@ -15,6 +16,6 @@ tags:
 >[!abstract] **Detalles de la aventura**
 >  - **Fecha de la Partida:** 2026-01-21
 >  - **Autor:**  Elysia
->  - **Participantes:** Elysia, Caelus, Broldan, Hector
+>  - **Participantes:** Elysia, Caelus, Broldan, Kyran, Hector
 
 ![[mision_templo_yelmalio.jpeg]]

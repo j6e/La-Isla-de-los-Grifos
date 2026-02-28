@@ -5,7 +5,7 @@ A continuación la tabla con los puntos de rol asignados, los gastados y los dis
 
 | **Personaje** | **Asignados** | **Gastados** | **Disponibles** |
 | ------------- | ------------- | ------------ | --------------- |
-| Elysia        | 20            | 6            | 14              |
+| Elysia        | 22            | 6            | 16              |
 | Broldan       | 15            | 12           | 4               |
 | Caelus        | 8             | 8            | 0               |
 | Kyran         | 9             | 8            | 1               |
